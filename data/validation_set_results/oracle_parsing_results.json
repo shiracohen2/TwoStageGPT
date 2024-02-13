@@ -1,0 +1,3202 @@
+{
+  "41750": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005235.png",
+    "image_id": "CLEVR_val_005235.png",
+    "question": "Add 6 cylinders. How many cylinders are left?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "large blue metal cylinder\nsmall gray rubber cylinder\nlarge green rubber cylinder"
+  },
+  "55934": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007018.png",
+    "image_id": "CLEVR_val_007018.png",
+    "question": "Add 4 big blue metal objects. How many objects exist?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "<answer>: large blue metal sphere"
+  },
+  "21521": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002680.png",
+    "image_id": "CLEVR_val_002680.png",
+    "question": "Subtract 0 gray spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": null
+  },
+  "22530": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002808.png",
+    "image_id": "CLEVR_val_002808.png",
+    "question": "Subtract 0 gray spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 10,
+    "parsing_result": null
+  },
+  "105598": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013280.png",
+    "image_id": "CLEVR_val_013280.png",
+    "question": "Subtract all blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small gray rubber cube\nsmall cyan rubber cube\nlarge cyan rubber cube"
+  },
+  "24603": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003064.png",
+    "image_id": "CLEVR_val_003064.png",
+    "question": "Subtract 0 yellow balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": null
+  },
+  "22079": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002761.png",
+    "image_id": "CLEVR_val_002761.png",
+    "question": "Subtract all blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": "small red metal cube"
+  },
+  "100198": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012585.png",
+    "image_id": "CLEVR_val_012585.png",
+    "question": "Subtract all brown balls. Subtract all gray blocks. How many balls are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": null
+  },
+  "79166": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009942.png",
+    "image_id": "CLEVR_val_009942.png",
+    "question": "Add 2 big red blocks. How many big red blocks are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "large red rubber cube"
+  },
+  "58455": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007322.png",
+    "image_id": "CLEVR_val_007322.png",
+    "question": "Subtract 1 brown balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "small brown metal sphere"
+  },
+  "95269": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011976.png",
+    "image_id": "CLEVR_val_011976.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "small green metal cube"
+  },
+  "90201": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011327.png",
+    "image_id": "CLEVR_val_011327.png",
+    "question": "Add 4 yellow cubes. How many yellow cubes exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "large yellow metal cube"
+  },
+  "56322": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007057.png",
+    "image_id": "CLEVR_val_007057.png",
+    "question": "Add 8 small red shiny cubes. How many small red shiny cubes are left?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "small red metal cube"
+  },
+  "92538": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011616.png",
+    "image_id": "CLEVR_val_011616.png",
+    "question": "Add 3 large blue rubber spheres. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": null
+  },
+  "34104": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004270.png",
+    "image_id": "CLEVR_val_004270.png",
+    "question": "Subtract all cyan spheres. Subtract all purple cubes. How many spheres are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large green rubber sphere\nsmall yellow rubber sphere"
+  },
+  "17870": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002226.png",
+    "image_id": "CLEVR_val_002226.png",
+    "question": "Subtract 0 purple cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 9,
+    "parsing_result": null
+  },
+  "56004": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007025.png",
+    "image_id": "CLEVR_val_007025.png",
+    "question": "Add 6 brown spheres. How many brown spheres exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": "small brown metal sphere"
+  },
+  "93470": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011752.png",
+    "image_id": "CLEVR_val_011752.png",
+    "question": "Subtract 0 yellow cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": null
+  },
+  "44920": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005618.png",
+    "image_id": "CLEVR_val_005618.png",
+    "question": "Add 1 small blue balls. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small blue metal sphere"
+  },
+  "90627": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011379.png",
+    "image_id": "CLEVR_val_011379.png",
+    "question": "Subtract 0 red balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": null
+  },
+  "104618": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013146.png",
+    "image_id": "CLEVR_val_013146.png",
+    "question": "Subtract 0 purple cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small purple rubber sphere"
+  },
+  "7261": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000895.png",
+    "image_id": "CLEVR_val_000895.png",
+    "question": "Add 2 yellow rubber cylinders. How many yellow rubber cylinders exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": null
+  },
+  "27052": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003371.png",
+    "image_id": "CLEVR_val_003371.png",
+    "question": "Subtract all red blocks. How many were subtracted if there are1red blocks left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small red rubber cube\nlarge red metal cube\nsmall red metal cube"
+  },
+  "37396": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004676.png",
+    "image_id": "CLEVR_val_004676.png",
+    "question": "Add 3 blue matte balls. How many blue matte balls exist?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "87960": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011048.png",
+    "image_id": "CLEVR_val_011048.png",
+    "question": "Subtract all brown cylinders. Subtract all purple blocks. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large red rubber cylinder\nlarge gray rubber cylinder\nsmall yellow metal cylinder\nlarge red metal cylinder"
+  },
+  "27477": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003433.png",
+    "image_id": "CLEVR_val_003433.png",
+    "question": "Add 1 large objects. How many large objects exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large cyan metal cylinder"
+  },
+  "117966": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014831.png",
+    "image_id": "CLEVR_val_014831.png",
+    "question": "Add 2 brown cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": null
+  },
+  "32743": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004084.png",
+    "image_id": "CLEVR_val_004084.png",
+    "question": "Subtract all red blocks. How many gray balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "Your response should be:\n'small gray metal sphere\nsmall gray metal sphere\n'"
+  },
+  "73446": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009223.png",
+    "image_id": "CLEVR_val_009223.png",
+    "question": "Add 3 large cyan things. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": null
+  },
+  "73041": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009161.png",
+    "image_id": "CLEVR_val_009161.png",
+    "question": "Add 2 green metallic blocks. How many green metallic blocks exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": null
+  },
+  "43755": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005490.png",
+    "image_id": "CLEVR_val_005490.png",
+    "question": "Subtract all cyan shiny cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "small gray metal cylinder\nsmall blue rubber cylinder\nsmall red metal cylinder\nlarge blue metal cylinder\nsmall cyan metal cylinder"
+  },
+  "118548": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014906.png",
+    "image_id": "CLEVR_val_014906.png",
+    "question": "Subtract 0 gray cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": null
+  },
+  "104402": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013116.png",
+    "image_id": "CLEVR_val_013116.png",
+    "question": "Subtract all small spheres. Subtract all big matte cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "small red rubber sphere\nlarge yellow rubber sphere\nsmall blue rubber sphere\nsmall green metal cylinder\nlarge yellow rubber cylinder"
+  },
+  "46871": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005865.png",
+    "image_id": "CLEVR_val_005865.png",
+    "question": "Subtract all purple cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small green rubber cylinder\nsmall green metal cylinder\nsmall purple rubber cylinder\nsmall purple rubber cylinder\nlarge purple metal cylinder\nsmall green metal cylinder"
+  },
+  "116192": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014604.png",
+    "image_id": "CLEVR_val_014604.png",
+    "question": "Add 1 purple cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": null
+  },
+  "15600": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001932.png",
+    "image_id": "CLEVR_val_001932.png",
+    "question": "Add 2 purple balls. How many objects exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "small purple rubber sphere\nlarge purple rubber cube"
+  },
+  "75841": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009525.png",
+    "image_id": "CLEVR_val_009525.png",
+    "question": "Add 3 tiny red things. How many objects exist?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "small red metal sphere\nsmall red rubber cylinder"
+  },
+  "48868": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006114.png",
+    "image_id": "CLEVR_val_006114.png",
+    "question": "Add 4 balls. How many balls are left?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": null
+  },
+  "67637": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008501.png",
+    "image_id": "CLEVR_val_008501.png",
+    "question": "Subtract all red balls. How many cyan cylinders are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "small red rubber sphere\nsmall cyan metal cylinder"
+  },
+  "32344": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004041.png",
+    "image_id": "CLEVR_val_004041.png",
+    "question": "Subtract all gray cylinders. Subtract all blue blocks. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large gray rubber cylinder\nsmall gray rubber cylinder"
+  },
+  "109560": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013778.png",
+    "image_id": "CLEVR_val_013778.png",
+    "question": "Subtract all blue cylinders. How many blue balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "21774": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002718.png",
+    "image_id": "CLEVR_val_002718.png",
+    "question": "Add 2 cyan objects. How many cyan objects are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "small cyan rubber cylinder\nlarge cyan rubber cube"
+  },
+  "89441": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011248.png",
+    "image_id": "CLEVR_val_011248.png",
+    "question": "Subtract 1 yellow spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": "large yellow rubber sphere"
+  },
+  "114237": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014357.png",
+    "image_id": "CLEVR_val_014357.png",
+    "question": "Add 3 purple metal cylinders. How many purple metal cylinders exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "small purple metal cylinder"
+  },
+  "11940": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001493.png",
+    "image_id": "CLEVR_val_001493.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "large green metal cylinder"
+  },
+  "80158": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010063.png",
+    "image_id": "CLEVR_val_010063.png",
+    "question": "Subtract all blue blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small blue rubber cube"
+  },
+  "45857": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005755.png",
+    "image_id": "CLEVR_val_005755.png",
+    "question": "Subtract all brown cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "small green metal cylinder\nsmall brown rubber cylinder"
+  },
+  "117187": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014750.png",
+    "image_id": "CLEVR_val_014750.png",
+    "question": "Subtract all large yellow shiny things. Subtract all brown things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large yellow metal cylinder\nsmall brown metal sphere\nsmall brown rubber cube"
+  },
+  "66285": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008314.png",
+    "image_id": "CLEVR_val_008314.png",
+    "question": "Subtract all blue blocks. Subtract all purple cylinders. How many blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "small blue rubber cube"
+  },
+  "65132": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008170.png",
+    "image_id": "CLEVR_val_008170.png",
+    "question": "Subtract all big rubber spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "large green rubber sphere\nsmall red rubber sphere\nsmall purple metal sphere\nlarge yellow metal sphere\nlarge green metal sphere\nlarge green metal sphere"
+  },
+  "8825": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001092.png",
+    "image_id": "CLEVR_val_001092.png",
+    "question": "Add 7 brown metal cylinders. How many brown metal cylinders exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": null
+  },
+  "60541": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007588.png",
+    "image_id": "CLEVR_val_007588.png",
+    "question": "Subtract 1 cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "large purple rubber cylinder\nsmall green metal cylinder\nsmall gray rubber cylinder\nlarge green metal cylinder\nsmall brown metal cylinder"
+  },
+  "6951": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000853.png",
+    "image_id": "CLEVR_val_000853.png",
+    "question": "Add 3 rubber things. How many objects exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": "large blue rubber sphere\nlarge blue rubber sphere\nsmall yellow rubber sphere\nlarge brown rubber cube"
+  },
+  "7735": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000969.png",
+    "image_id": "CLEVR_val_000969.png",
+    "question": "Subtract all balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large blue metal sphere\nsmall brown rubber sphere\nsmall blue rubber sphere\nsmall green rubber sphere"
+  },
+  "49118": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006152.png",
+    "image_id": "CLEVR_val_006152.png",
+    "question": "Add 2 blue objects. How many blue objects are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "small blue metal cylinder"
+  },
+  "13105": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001620.png",
+    "image_id": "CLEVR_val_001620.png",
+    "question": "Subtract 0 red balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": null
+  },
+  "68570": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008602.png",
+    "image_id": "CLEVR_val_008602.png",
+    "question": "Subtract 0 green cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "Your response should be:\n'large red metal cylinder'"
+  },
+  "56570": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007084.png",
+    "image_id": "CLEVR_val_007084.png",
+    "question": "Add 5 metallic cubes. How many metallic cubes are left?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "small blue metal cube"
+  },
+  "89853": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011291.png",
+    "image_id": "CLEVR_val_011291.png",
+    "question": "Subtract all large cyan matte blocks. Subtract all tiny cyan rubber objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "small cyan rubber cube"
+  },
+  "102710": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012904.png",
+    "image_id": "CLEVR_val_012904.png",
+    "question": "Subtract 0 yellow balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": null
+  },
+  "1901": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000236.png",
+    "image_id": "CLEVR_val_000236.png",
+    "question": "Subtract 1 brown spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 9,
+    "parsing_result": "small brown metal sphere"
+  },
+  "47906": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006012.png",
+    "image_id": "CLEVR_val_006012.png",
+    "question": "Subtract all yellow spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small yellow rubber sphere"
+  },
+  "9755": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001221.png",
+    "image_id": "CLEVR_val_001221.png",
+    "question": "Subtract 0 yellow cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 9,
+    "parsing_result": "Your response should be: ''"
+  },
+  "58036": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007280.png",
+    "image_id": "CLEVR_val_007280.png",
+    "question": "Add 2 cyan cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": "large cyan rubber cylinder"
+  },
+  "33356": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004166.png",
+    "image_id": "CLEVR_val_004166.png",
+    "question": "Subtract all small yellow metallic balls. Subtract all tiny objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": null
+  },
+  "29418": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003670.png",
+    "image_id": "CLEVR_val_003670.png",
+    "question": "Subtract 0 gray cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": null
+  },
+  "14469": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001793.png",
+    "image_id": "CLEVR_val_001793.png",
+    "question": "Subtract 3 spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large yellow rubber sphere\nsmall blue metal sphere\nlarge blue rubber sphere\nsmall yellow metal sphere\nlarge blue metal sphere"
+  },
+  "8302": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001037.png",
+    "image_id": "CLEVR_val_001037.png",
+    "question": "Add 1 small cylinders. How many small cylinders are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "Your response should be: ''"
+  },
+  "84540": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010614.png",
+    "image_id": "CLEVR_val_010614.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large gray rubber cube\nsmall brown metal cube\nlarge gray rubber cube\nsmall green rubber cube\nlarge green rubber cube"
+  },
+  "88045": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011057.png",
+    "image_id": "CLEVR_val_011057.png",
+    "question": "Add 2 large purple cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "large purple rubber cylinder"
+  },
+  "88038": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011056.png",
+    "image_id": "CLEVR_val_011056.png",
+    "question": "Subtract all gray balls. Subtract all yellow cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "The question does not mention any specific objects from the description."
+  },
+  "48763": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006102.png",
+    "image_id": "CLEVR_val_006102.png",
+    "question": "Subtract all cyan cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large yellow metal cylinder\nsmall blue metal cylinder\nsmall gray metal cylinder"
+  },
+  "91471": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011502.png",
+    "image_id": "CLEVR_val_011502.png",
+    "question": "Add 1 tiny red cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "small red metal cylinder"
+  },
+  "2576": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000309.png",
+    "image_id": "CLEVR_val_000309.png",
+    "question": "Subtract 2 balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 0,
+    "parsing_result": "small gray rubber sphere\nsmall yellow metal sphere"
+  },
+  "62715": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007859.png",
+    "image_id": "CLEVR_val_007859.png",
+    "question": "Add 5 big metal balls. How many big metal balls are left?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "large blue metal sphere"
+  },
+  "66129": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008298.png",
+    "image_id": "CLEVR_val_008298.png",
+    "question": "Add 1 large yellow things. How many large yellow things exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large yellow metal sphere"
+  },
+  "24662": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003070.png",
+    "image_id": "CLEVR_val_003070.png",
+    "question": "Subtract all purple blocks. Subtract all green cylinders. How many blocks are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "small cyan metal cube\nsmall yellow rubber cube\nsmall yellow rubber cube\nlarge green rubber cube"
+  },
+  "77554": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009747.png",
+    "image_id": "CLEVR_val_009747.png",
+    "question": "Add 4 red cylinders. How many red cylinders exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "small red metal cylinder"
+  },
+  "42314": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005297.png",
+    "image_id": "CLEVR_val_005297.png",
+    "question": "Subtract 0 cyan balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": null
+  },
+  "91665": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011521.png",
+    "image_id": "CLEVR_val_011521.png",
+    "question": "Add 5 metallic spheres. How many metallic spheres are left?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": "small brown metal sphere\nsmall red metal sphere"
+  },
+  "43184": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005401.png",
+    "image_id": "CLEVR_val_005401.png",
+    "question": "Add 3 small blue rubber balls. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small blue rubber cube"
+  },
+  "70699": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008870.png",
+    "image_id": "CLEVR_val_008870.png",
+    "question": "Subtract 0 blue cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 9,
+    "parsing_result": "Your response should be an empty string since there are no blue cylinders in the description."
+  },
+  "55334": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006939.png",
+    "image_id": "CLEVR_val_006939.png",
+    "question": "Subtract 0 brown blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": null
+  },
+  "46007": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005771.png",
+    "image_id": "CLEVR_val_005771.png",
+    "question": "Subtract all brown cylinders. How many purple balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "60599": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007596.png",
+    "image_id": "CLEVR_val_007596.png",
+    "question": "Add 1 gray balls. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small gray metal cube\nlarge gray metal cube"
+  },
+  "108814": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013680.png",
+    "image_id": "CLEVR_val_013680.png",
+    "question": "Add 5 small green metallic objects. How many small green metallic objects exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": null
+  },
+  "8143": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001021.png",
+    "image_id": "CLEVR_val_001021.png",
+    "question": "Add 1 small gray metal cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": null
+  },
+  "20108": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002512.png",
+    "image_id": "CLEVR_val_002512.png",
+    "question": "Subtract 0 purple spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 10,
+    "parsing_result": null
+  },
+  "7725": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000967.png",
+    "image_id": "CLEVR_val_000967.png",
+    "question": "Add 1 big blue metallic cubes. How many big blue metallic cubes are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large blue metal cube"
+  },
+  "90881": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011415.png",
+    "image_id": "CLEVR_val_011415.png",
+    "question": "Add 8 large gray cylinders. How many large gray cylinders are left?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "large gray metal cylinder"
+  },
+  "39169": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004897.png",
+    "image_id": "CLEVR_val_004897.png",
+    "question": "Subtract all yellow shiny balls. Subtract all small cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "small yellow rubber cube\nsmall green rubber cube"
+  },
+  "8712": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001080.png",
+    "image_id": "CLEVR_val_001080.png",
+    "question": "Subtract all gray cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large gray rubber cylinder"
+  },
+  "115681": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014548.png",
+    "image_id": "CLEVR_val_014548.png",
+    "question": "Subtract all purple metal balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large purple metal sphere"
+  },
+  "52330": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006558.png",
+    "image_id": "CLEVR_val_006558.png",
+    "question": "Subtract all yellow balls. Subtract all purple cubes. How many balls are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large yellow metal sphere\nsmall purple metal sphere"
+  },
+  "44285": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005547.png",
+    "image_id": "CLEVR_val_005547.png",
+    "question": "Subtract 1 cyan blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "small cyan rubber cube\nlarge cyan rubber cylinder\nsmall cyan metal cylinder"
+  },
+  "98712": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012402.png",
+    "image_id": "CLEVR_val_012402.png",
+    "question": "Add 8 brown cylinders. How many brown cylinders exist?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "small brown metal sphere\nlarge brown metal cylinder"
+  },
+  "23096": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002872.png",
+    "image_id": "CLEVR_val_002872.png",
+    "question": "Add 2 small purple metallic blocks. How many objects exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": null
+  },
+  "82488": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010353.png",
+    "image_id": "CLEVR_val_010353.png",
+    "question": "Subtract all big red balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large red rubber sphere"
+  },
+  "77299": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009710.png",
+    "image_id": "CLEVR_val_009710.png",
+    "question": "Add 1 tiny blue metallic cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small blue metal cylinder"
+  },
+  "75090": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009422.png",
+    "image_id": "CLEVR_val_009422.png",
+    "question": "Add 1 cubes. How many cubes are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large brown rubber cube"
+  },
+  "49780": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006249.png",
+    "image_id": "CLEVR_val_006249.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "large blue metal cube\nsmall brown rubber cube\nlarge blue metal cube\nlarge green metal cube\nsmall blue metal cube"
+  },
+  "63289": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007941.png",
+    "image_id": "CLEVR_val_007941.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": "large green metal cylinder\nlarge red metal cylinder"
+  },
+  "73830": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009271.png",
+    "image_id": "CLEVR_val_009271.png",
+    "question": "Subtract 3 cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "large blue rubber cylinder\nsmall green metal cylinder\nlarge red metal cylinder\nsmall gray metal cylinder"
+  },
+  "75548": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009492.png",
+    "image_id": "CLEVR_val_009492.png",
+    "question": "Subtract all yellow rubber things. Subtract all blue objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "large yellow rubber cylinder\nlarge yellow rubber cube\nlarge blue rubber cube"
+  },
+  "97025": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012195.png",
+    "image_id": "CLEVR_val_012195.png",
+    "question": "Add 3 small yellow rubber things. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "small yellow rubber sphere"
+  },
+  "103559": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013023.png",
+    "image_id": "CLEVR_val_013023.png",
+    "question": "Subtract all small cyan cylinders. Subtract all tiny purple metallic cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "small purple metal cylinder"
+  },
+  "10853": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001344.png",
+    "image_id": "CLEVR_val_001344.png",
+    "question": "Add 5 brown matte cubes. How many brown matte cubes are left?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "small brown rubber cube"
+  },
+  "14751": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001821.png",
+    "image_id": "CLEVR_val_001821.png",
+    "question": "Add 6 large metal blocks. How many large metal blocks are left?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "large cyan metal cube\nlarge cyan metal cube"
+  },
+  "32835": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004094.png",
+    "image_id": "CLEVR_val_004094.png",
+    "question": "Subtract all large metal things. Subtract all small brown metallic objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large purple metal sphere\nsmall yellow metal sphere"
+  },
+  "7052": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000866.png",
+    "image_id": "CLEVR_val_000866.png",
+    "question": "Subtract all tiny cyan matte spheres. Subtract all cyan cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "small cyan rubber sphere\nsmall cyan metal cylinder\nlarge cyan metal cylinder"
+  },
+  "25552": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003189.png",
+    "image_id": "CLEVR_val_003189.png",
+    "question": "Subtract all big green balls. Subtract all small brown matte balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "Your response should be: \n\nsmall brown rubber sphere"
+  },
+  "17091": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002115.png",
+    "image_id": "CLEVR_val_002115.png",
+    "question": "Add 2 tiny gray matte spheres. How many tiny gray matte spheres exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": null
+  },
+  "9917": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001245.png",
+    "image_id": "CLEVR_val_001245.png",
+    "question": "Add 1 tiny metallic cubes. How many tiny metallic cubes are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": null
+  },
+  "77154": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009689.png",
+    "image_id": "CLEVR_val_009689.png",
+    "question": "Add 5 shiny balls. How many shiny balls are left?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": null
+  },
+  "28627": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003570.png",
+    "image_id": "CLEVR_val_003570.png",
+    "question": "Subtract all large yellow shiny cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large yellow metal cube\nlarge brown rubber cube\nlarge brown metal cube"
+  },
+  "106911": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013445.png",
+    "image_id": "CLEVR_val_013445.png",
+    "question": "Add 1 tiny purple metallic objects. How many objects exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "small purple metal cylinder"
+  },
+  "41056": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005132.png",
+    "image_id": "CLEVR_val_005132.png",
+    "question": "Subtract all yellow cylinders. Subtract all red spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 6,
+    "parsing_result": "large green rubber cylinder\nlarge blue rubber cylinder\nlarge blue metal cylinder\nlarge green rubber cylinder\nsmall red metal cylinder\nsmall gray metal cylinder"
+  },
+  "40889": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005109.png",
+    "image_id": "CLEVR_val_005109.png",
+    "question": "Subtract 0 cyan cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 10,
+    "parsing_result": null
+  },
+  "83208": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010458.png",
+    "image_id": "CLEVR_val_010458.png",
+    "question": "Subtract 0 purple spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": null
+  },
+  "104933": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013194.png",
+    "image_id": "CLEVR_val_013194.png",
+    "question": "Subtract 0 yellow balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "'large yellow rubber cylinder'"
+  },
+  "97924": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012306.png",
+    "image_id": "CLEVR_val_012306.png",
+    "question": "Subtract all red blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "large red metal cube\nsmall red rubber cube"
+  },
+  "48705": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006095.png",
+    "image_id": "CLEVR_val_006095.png",
+    "question": "Add 5 small rubber objects. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small purple rubber cylinder\nsmall purple rubber cylinder"
+  },
+  "31868": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003990.png",
+    "image_id": "CLEVR_val_003990.png",
+    "question": "Subtract 0 red cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": "Your response should be: ''"
+  },
+  "16815": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002080.png",
+    "image_id": "CLEVR_val_002080.png",
+    "question": "Subtract 0 purple cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": null
+  },
+  "16412": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002038.png",
+    "image_id": "CLEVR_val_002038.png",
+    "question": "Subtract 1 blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 0,
+    "parsing_result": "small green metal cube"
+  },
+  "60549": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007589.png",
+    "image_id": "CLEVR_val_007589.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "large gray rubber cylinder"
+  },
+  "90918": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011421.png",
+    "image_id": "CLEVR_val_011421.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small purple rubber cylinder\nsmall brown rubber cylinder"
+  },
+  "15433": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001908.png",
+    "image_id": "CLEVR_val_001908.png",
+    "question": "Add 1 purple balls. How many purple balls are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "small purple rubber sphere\nsmall purple metal sphere"
+  },
+  "2010": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000250.png",
+    "image_id": "CLEVR_val_000250.png",
+    "question": "Subtract 0 brown cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": null
+  },
+  "49664": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006234.png",
+    "image_id": "CLEVR_val_006234.png",
+    "question": "Add 8 tiny purple metallic blocks. How many tiny purple metallic blocks are left?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": null
+  },
+  "56141": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007039.png",
+    "image_id": "CLEVR_val_007039.png",
+    "question": "Add 1 big purple metallic blocks. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "large purple metal cube"
+  },
+  "103194": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012979.png",
+    "image_id": "CLEVR_val_012979.png",
+    "question": "Subtract all small cyan rubber cubes. Subtract all large blue cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": null
+  },
+  "62007": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007783.png",
+    "image_id": "CLEVR_val_007783.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "small yellow rubber cylinder\nsmall cyan rubber cylinder"
+  },
+  "10189": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001274.png",
+    "image_id": "CLEVR_val_001274.png",
+    "question": "Subtract all yellow blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small yellow metal cube"
+  },
+  "21040": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002611.png",
+    "image_id": "CLEVR_val_002611.png",
+    "question": "Add 1 brown metallic things. How many brown metallic things are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large brown metal cylinder"
+  },
+  "72730": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009116.png",
+    "image_id": "CLEVR_val_009116.png",
+    "question": "Add 2 yellow blocks. How many yellow blocks are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "small yellow rubber cylinder\nsmall yellow rubber cube"
+  },
+  "26580": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003315.png",
+    "image_id": "CLEVR_val_003315.png",
+    "question": "Subtract all gray balls. Subtract all purple cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "Your response should be:\nsmall purple metal sphere\nsmall green rubber sphere"
+  },
+  "60741": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007612.png",
+    "image_id": "CLEVR_val_007612.png",
+    "question": "Add 3 big yellow spheres. How many big yellow spheres are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "'large yellow metal sphere'"
+  },
+  "112405": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014127.png",
+    "image_id": "CLEVR_val_014127.png",
+    "question": "Add 1 small purple cylinders. How many small purple cylinders exist?",
+    "template": "addition",
+    "label": 1,
+    "parsing_result": null
+  },
+  "101124": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012716.png",
+    "image_id": "CLEVR_val_012716.png",
+    "question": "Add 7 tiny red matte cylinders. How many tiny red matte cylinders exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": null
+  },
+  "8217": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001028.png",
+    "image_id": "CLEVR_val_001028.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": "large green rubber cube\nlarge purple metal cube"
+  },
+  "16976": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002100.png",
+    "image_id": "CLEVR_val_002100.png",
+    "question": "Add 1 big green rubber things. How many big green rubber things exist?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "large green rubber cylinder"
+  },
+  "88389": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011093.png",
+    "image_id": "CLEVR_val_011093.png",
+    "question": "Add 1 matte things. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": null
+  },
+  "31885": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003993.png",
+    "image_id": "CLEVR_val_003993.png",
+    "question": "Add 3 gray cylinders. How many gray cylinders exist?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "89877": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011294.png",
+    "image_id": "CLEVR_val_011294.png",
+    "question": "Subtract all small metallic cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large gray metal cylinder\nlarge brown metal cylinder"
+  },
+  "1346": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000153.png",
+    "image_id": "CLEVR_val_000153.png",
+    "question": "Add 3 big brown shiny spheres. How many big brown shiny spheres exist?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "28439": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003551.png",
+    "image_id": "CLEVR_val_003551.png",
+    "question": "Subtract all blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": "large brown rubber cube\nsmall blue rubber cube\nsmall blue rubber cube"
+  },
+  "92048": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011561.png",
+    "image_id": "CLEVR_val_011561.png",
+    "question": "Subtract 3 balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 0,
+    "parsing_result": "large gray rubber sphere\nlarge gray metal sphere\nlarge brown rubber sphere"
+  },
+  "15499": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001917.png",
+    "image_id": "CLEVR_val_001917.png",
+    "question": "Subtract 0 cyan blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 8,
+    "parsing_result": "small cyan rubber sphere"
+  },
+  "8173": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001024.png",
+    "image_id": "CLEVR_val_001024.png",
+    "question": "Add 2 large cyan shiny cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "large cyan metal cylinder"
+  },
+  "17157": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002124.png",
+    "image_id": "CLEVR_val_002124.png",
+    "question": "Add 3 blue metal things. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": null
+  },
+  "47928": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006014.png",
+    "image_id": "CLEVR_val_006014.png",
+    "question": "Subtract all green balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "small green metal sphere"
+  },
+  "75036": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009413.png",
+    "image_id": "CLEVR_val_009413.png",
+    "question": "Subtract 1 yellow blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large yellow metal cube"
+  },
+  "3278": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000391.png",
+    "image_id": "CLEVR_val_000391.png",
+    "question": "Subtract all blue cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "small blue rubber cube\nsmall blue metal cube"
+  },
+  "59163": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007414.png",
+    "image_id": "CLEVR_val_007414.png",
+    "question": "Subtract all balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small brown rubber sphere\nsmall red rubber sphere\nsmall gray rubber sphere"
+  },
+  "10772": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001334.png",
+    "image_id": "CLEVR_val_001334.png",
+    "question": "Subtract all large blue metallic blocks. Subtract all large cyan things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "large cyan metal cylinder\nlarge gray metal cylinder"
+  },
+  "19896": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002486.png",
+    "image_id": "CLEVR_val_002486.png",
+    "question": "Subtract all cyan cylinders. Subtract all brown blocks. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large gray metal cylinder\nlarge red rubber cylinder\nsmall yellow metal cylinder\nsmall gray metal cylinder\nsmall blue rubber cylinder\nlarge cyan metal cylinder"
+  },
+  "42214": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005287.png",
+    "image_id": "CLEVR_val_005287.png",
+    "question": "Subtract 1 cyan cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "small cyan metal cylinder"
+  },
+  "110990": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013957.png",
+    "image_id": "CLEVR_val_013957.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "small blue metal cube\nlarge cyan rubber cube\nlarge purple metal cube\nsmall cyan metal cube"
+  },
+  "9604": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001199.png",
+    "image_id": "CLEVR_val_001199.png",
+    "question": "Add 1 tiny gray blocks. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": null
+  },
+  "55200": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006918.png",
+    "image_id": "CLEVR_val_006918.png",
+    "question": "Add 2 metallic balls. How many metallic balls are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "88472": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011102.png",
+    "image_id": "CLEVR_val_011102.png",
+    "question": "Subtract all green cylinders. Subtract all cyan spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large gray metal cylinder\nlarge purple metal cylinder\nlarge purple metal cylinder"
+  },
+  "4488": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000549.png",
+    "image_id": "CLEVR_val_000549.png",
+    "question": "Subtract all gray balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small gray metal sphere"
+  },
+  "14963": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001844.png",
+    "image_id": "CLEVR_val_001844.png",
+    "question": "Add 4 gray shiny cubes. How many gray shiny cubes are left?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "large gray metal cube"
+  },
+  "25248": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003143.png",
+    "image_id": "CLEVR_val_003143.png",
+    "question": "Subtract 1 cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small red metal cube\nsmall brown metal cube\nlarge brown rubber cube\nsmall yellow metal cube"
+  },
+  "108885": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013692.png",
+    "image_id": "CLEVR_val_013692.png",
+    "question": "Subtract all blue blocks. Subtract all yellow spheres. How many blocks are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "small blue rubber cube"
+  },
+  "90745": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011395.png",
+    "image_id": "CLEVR_val_011395.png",
+    "question": "Add 3 green objects. How many green objects are left?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "large green rubber cylinder\nsmall green metal cylinder"
+  },
+  "111789": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014054.png",
+    "image_id": "CLEVR_val_014054.png",
+    "question": "Add 4 big red spheres. How many big red spheres exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "90891": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011417.png",
+    "image_id": "CLEVR_val_011417.png",
+    "question": "Subtract 0 green cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": "large green metal cylinder"
+  },
+  "23859": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002982.png",
+    "image_id": "CLEVR_val_002982.png",
+    "question": "Subtract 0 gray cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": null
+  },
+  "63256": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007936.png",
+    "image_id": "CLEVR_val_007936.png",
+    "question": "Subtract all yellow balls. Subtract all small cyan rubber objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "small cyan rubber cylinder"
+  },
+  "18758": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002327.png",
+    "image_id": "CLEVR_val_002327.png",
+    "question": "Subtract all purple cylinders. Subtract all red spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "Your response should be:\nsmall blue metal cylinder"
+  },
+  "117050": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014729.png",
+    "image_id": "CLEVR_val_014729.png",
+    "question": "Add 3 brown matte spheres. How many brown matte spheres exist?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "61456": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007715.png",
+    "image_id": "CLEVR_val_007715.png",
+    "question": "Add 2 red things. How many red things exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "large red metal sphere\nsmall red rubber sphere"
+  },
+  "17724": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002204.png",
+    "image_id": "CLEVR_val_002204.png",
+    "question": "Subtract 0 red cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 8,
+    "parsing_result": null
+  },
+  "44831": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005608.png",
+    "image_id": "CLEVR_val_005608.png",
+    "question": "Subtract all purple cylinders. Subtract all gray spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large blue rubber cylinder\nlarge blue rubber cylinder\nlarge red metal cylinder\nlarge yellow metal cylinder"
+  },
+  "79021": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009920.png",
+    "image_id": "CLEVR_val_009920.png",
+    "question": "Subtract all green cylinders. Subtract all yellow cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large brown metal cylinder\nsmall brown rubber cylinder\nlarge brown metal cylinder"
+  },
+  "13851": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001722.png",
+    "image_id": "CLEVR_val_001722.png",
+    "question": "Add 3 large rubber things. How many large rubber things are left?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "large brown rubber sphere\nlarge green rubber cylinder"
+  },
+  "114498": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014393.png",
+    "image_id": "CLEVR_val_014393.png",
+    "question": "Subtract all spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "large red metal sphere\nlarge purple metal sphere\nsmall red metal sphere"
+  },
+  "109451": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013767.png",
+    "image_id": "CLEVR_val_013767.png",
+    "question": "Add 1 small gray shiny cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "small gray metal cylinder"
+  },
+  "91613": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011516.png",
+    "image_id": "CLEVR_val_011516.png",
+    "question": "Subtract all yellow spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large yellow metal sphere\nsmall blue rubber sphere"
+  },
+  "76525": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009597.png",
+    "image_id": "CLEVR_val_009597.png",
+    "question": "Subtract all tiny matte objects. Subtract all big yellow rubber cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "Your response should be: \n\nsmall gray rubber cylinder\nlarge yellow metal cylinder\nlarge blue rubber sphere\nlarge yellow rubber cube\nlarge green rubber cube\nsmall purple metal cube"
+  },
+  "40013": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005016.png",
+    "image_id": "CLEVR_val_005016.png",
+    "question": "Subtract all tiny red cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large purple metal cylinder\nlarge brown metal cylinder\nsmall red rubber cylinder"
+  },
+  "75356": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009462.png",
+    "image_id": "CLEVR_val_009462.png",
+    "question": "Add 6 rubber balls. How many rubber balls are left?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": "small red rubber sphere"
+  },
+  "8770": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001086.png",
+    "image_id": "CLEVR_val_001086.png",
+    "question": "Add 3 red rubber balls. How many red rubber balls are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "small red rubber sphere"
+  },
+  "113146": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014236.png",
+    "image_id": "CLEVR_val_014236.png",
+    "question": "Add 1 tiny rubber spheres. How many tiny rubber spheres exist?",
+    "template": "addition",
+    "label": 1,
+    "parsing_result": null
+  },
+  "83598": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010513.png",
+    "image_id": "CLEVR_val_010513.png",
+    "question": "Subtract all blue cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small green rubber cube\nsmall cyan rubber cube"
+  },
+  "104707": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013160.png",
+    "image_id": "CLEVR_val_013160.png",
+    "question": "Add 2 tiny blue metal spheres. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small blue metal sphere"
+  },
+  "43990": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005517.png",
+    "image_id": "CLEVR_val_005517.png",
+    "question": "Add 3 purple metal balls. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": "Your response should be:\n'large purple metal sphere'"
+  },
+  "68846": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008636.png",
+    "image_id": "CLEVR_val_008636.png",
+    "question": "Subtract all balls. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": "large red rubber cube\nlarge gray rubber cube\nsmall purple metal cube\nsmall cyan metal cylinder\nlarge blue rubber cube\nsmall brown metal cube"
+  },
+  "73918": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009280.png",
+    "image_id": "CLEVR_val_009280.png",
+    "question": "Subtract 0 brown cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": null
+  },
+  "64864": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008130.png",
+    "image_id": "CLEVR_val_008130.png",
+    "question": "Add 4 small purple rubber cylinders. How many small purple rubber cylinders exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "92746": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011645.png",
+    "image_id": "CLEVR_val_011645.png",
+    "question": "Add 6 red metal things. How many red metal things exist?",
+    "template": "addition",
+    "label": 8,
+    "parsing_result": "small red metal cube\nsmall red metal cube"
+  },
+  "92996": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011683.png",
+    "image_id": "CLEVR_val_011683.png",
+    "question": "Subtract all purple cylinders. Subtract all purple balls. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large blue metal cylinder\nlarge cyan rubber cylinder\nlarge gray metal cylinder\nlarge gray rubber cylinder\nlarge red rubber cylinder"
+  },
+  "82498": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010354.png",
+    "image_id": "CLEVR_val_010354.png",
+    "question": "Subtract all tiny purple blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small blue metal cube\nsmall purple rubber cube\nlarge purple metal cube"
+  },
+  "81111": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010189.png",
+    "image_id": "CLEVR_val_010189.png",
+    "question": "Subtract all green rubber balls. Subtract all yellow spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large green rubber sphere\nsmall yellow metal sphere"
+  },
+  "3334": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000399.png",
+    "image_id": "CLEVR_val_000399.png",
+    "question": "Add 4 blue shiny cylinders. How many blue shiny cylinders exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "85569": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010759.png",
+    "image_id": "CLEVR_val_010759.png",
+    "question": "Add 3 small cyan matte objects. How many small cyan matte objects are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "The object from the question is not present in the description."
+  },
+  "3383": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000406.png",
+    "image_id": "CLEVR_val_000406.png",
+    "question": "Add 1 gray cylinders. How many objects exist?",
+    "template": "addition",
+    "label": 9,
+    "parsing_result": "small gray metal cylinder"
+  },
+  "64118": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008046.png",
+    "image_id": "CLEVR_val_008046.png",
+    "question": "Subtract all metal cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "small blue metal cube\nsmall green metal cube"
+  },
+  "40812": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005100.png",
+    "image_id": "CLEVR_val_005100.png",
+    "question": "Subtract all blue balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large blue metal sphere"
+  },
+  "99667": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012530.png",
+    "image_id": "CLEVR_val_012530.png",
+    "question": "Add 1 shiny things. How many shiny things exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "28071": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003512.png",
+    "image_id": "CLEVR_val_003512.png",
+    "question": "Subtract all yellow cubes. Subtract all red spheres. How many cubes are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small cyan metal cube\nsmall gray rubber cube\nlarge yellow rubber cube"
+  },
+  "95575": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012016.png",
+    "image_id": "CLEVR_val_012016.png",
+    "question": "Subtract 1 cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 0,
+    "parsing_result": "small brown metal cylinder"
+  },
+  "8722": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001081.png",
+    "image_id": "CLEVR_val_001081.png",
+    "question": "Subtract 4 cylinders. How many cylinders are left?",
+    "template": "subtraction",
+    "label": 0,
+    "parsing_result": "small green metal cylinder\nsmall blue rubber cylinder\nsmall green metal cylinder\nlarge gray rubber cylinder"
+  },
+  "112922": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014203.png",
+    "image_id": "CLEVR_val_014203.png",
+    "question": "Add 5 balls. How many balls exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": null
+  },
+  "63410": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007959.png",
+    "image_id": "CLEVR_val_007959.png",
+    "question": "Subtract all spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 7,
+    "parsing_result": "small yellow metal sphere"
+  },
+  "32663": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004075.png",
+    "image_id": "CLEVR_val_004075.png",
+    "question": "Subtract all purple matte blocks. Subtract all tiny cyan things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": null
+  },
+  "87685": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011020.png",
+    "image_id": "CLEVR_val_011020.png",
+    "question": "Subtract all yellow balls. How many yellow blocks are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "70682": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008868.png",
+    "image_id": "CLEVR_val_008868.png",
+    "question": "Subtract 0 purple blocks. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": null
+  },
+  "16406": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002037.png",
+    "image_id": "CLEVR_val_002037.png",
+    "question": "Add 2 big metal spheres. How many big metal spheres exist?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": "large yellow metal sphere"
+  },
+  "30665": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003825.png",
+    "image_id": "CLEVR_val_003825.png",
+    "question": "Subtract all cyan metal objects. Subtract all purple cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "large purple metal cylinder\nsmall cyan metal sphere"
+  },
+  "25601": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003196.png",
+    "image_id": "CLEVR_val_003196.png",
+    "question": "Add 2 yellow matte blocks. How many yellow matte blocks are left?",
+    "template": "addition",
+    "label": 3,
+    "parsing_result": null
+  },
+  "59183": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007417.png",
+    "image_id": "CLEVR_val_007417.png",
+    "question": "Add 4 small purple cylinders. How many small purple cylinders exist?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "small purple rubber cylinder"
+  },
+  "93357": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011736.png",
+    "image_id": "CLEVR_val_011736.png",
+    "question": "Add 3 tiny rubber things. How many tiny rubber things are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "58302": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007306.png",
+    "image_id": "CLEVR_val_007306.png",
+    "question": "Subtract all blue blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "small blue metal cube"
+  },
+  "3194": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000379.png",
+    "image_id": "CLEVR_val_000379.png",
+    "question": "Subtract all brown cylinders. How many yellow cubes are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "small yellow rubber cube\nsmall yellow rubber cube\nsmall yellow metal cube\nsmall brown rubber cylinder"
+  },
+  "61095": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007660.png",
+    "image_id": "CLEVR_val_007660.png",
+    "question": "Subtract all spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 5,
+    "parsing_result": "small blue rubber sphere\nlarge red metal sphere\nlarge yellow rubber sphere"
+  },
+  "112585": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014151.png",
+    "image_id": "CLEVR_val_014151.png",
+    "question": "Add 3 big brown shiny blocks. How many objects exist?",
+    "template": "addition",
+    "label": 6,
+    "parsing_result": null
+  },
+  "21527": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002681.png",
+    "image_id": "CLEVR_val_002681.png",
+    "question": "Subtract 0 gray spheres. How many objects are left?",
+    "template": "subtraction",
+    "label": 6,
+    "parsing_result": null
+  },
+  "49150": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006157.png",
+    "image_id": "CLEVR_val_006157.png",
+    "question": "Subtract all large yellow objects. Subtract all small purple rubber things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "small purple rubber cylinder\nlarge yellow rubber cylinder"
+  },
+  "54386": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006813.png",
+    "image_id": "CLEVR_val_006813.png",
+    "question": "Subtract all big matte things. Subtract all brown objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "small brown rubber sphere\nlarge blue rubber cube"
+  },
+  "44650": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005587.png",
+    "image_id": "CLEVR_val_005587.png",
+    "question": "Subtract 1 blocks. How many blocks are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small gray metal cube\nsmall blue metal cube\nlarge yellow metal cube"
+  },
+  "109737": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013796.png",
+    "image_id": "CLEVR_val_013796.png",
+    "question": "Add 8 gray objects. How many gray objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small gray rubber cylinder\nlarge gray rubber sphere"
+  },
+  "115154": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014489.png",
+    "image_id": "CLEVR_val_014489.png",
+    "question": "Add 1 metal balls. How many objects exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "large brown metal sphere\nsmall blue metal sphere"
+  },
+  "2356": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000286.png",
+    "image_id": "CLEVR_val_000286.png",
+    "question": "Subtract 0 cyan cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 4,
+    "parsing_result": "''"
+  },
+  "101360": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012751.png",
+    "image_id": "CLEVR_val_012751.png",
+    "question": "Add 3 tiny matte objects. How many tiny matte objects exist?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": null
+  },
+  "12266": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001528.png",
+    "image_id": "CLEVR_val_001528.png",
+    "question": "Subtract all yellow spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "large yellow metal sphere\nsmall cyan metal sphere"
+  },
+  "24772": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003082.png",
+    "image_id": "CLEVR_val_003082.png",
+    "question": "Add 4 gray rubber blocks. How many gray rubber blocks are left?",
+    "template": "addition",
+    "label": 5,
+    "parsing_result": "large gray rubber cube"
+  },
+  "3453": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000417.png",
+    "image_id": "CLEVR_val_000417.png",
+    "question": "Subtract 1 green cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 9,
+    "parsing_result": "small green rubber cube\nsmall green metal cylinder"
+  },
+  "86310": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010837.png",
+    "image_id": "CLEVR_val_010837.png",
+    "question": "Subtract all small gray metal cubes. How many cubes are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small gray metal cube\nsmall red metal cube\nlarge yellow rubber cube"
+  },
+  "95505": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012009.png",
+    "image_id": "CLEVR_val_012009.png",
+    "question": "Subtract all red balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small red metal sphere"
+  },
+  "12191": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001520.png",
+    "image_id": "CLEVR_val_001520.png",
+    "question": "Subtract all brown cylinders. Subtract all cyan blocks. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "small yellow metal cylinder\nsmall green rubber cylinder\nsmall purple rubber cylinder"
+  },
+  "95333": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011987.png",
+    "image_id": "CLEVR_val_011987.png",
+    "question": "Subtract all cubes. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "small gray rubber cube\nlarge blue metal cube\nlarge yellow metal cube"
+  },
+  "38750": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004842.png",
+    "image_id": "CLEVR_val_004842.png",
+    "question": "Subtract all big balls. How many balls are left?",
+    "template": "subtraction",
+    "label": 1,
+    "parsing_result": "large green metal sphere\nlarge brown rubber sphere"
+  },
+  "78404": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009836.png",
+    "image_id": "CLEVR_val_009836.png",
+    "question": "Subtract 2 spheres. How many spheres are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "large red rubber sphere\nsmall red metal sphere\nsmall gray rubber sphere\nsmall blue rubber sphere\nsmall purple rubber sphere"
+  },
+  "2541": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000305.png",
+    "image_id": "CLEVR_val_000305.png",
+    "question": "Subtract all red cylinders. How many blue blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": null
+  },
+  "24061": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003008.png",
+    "image_id": "CLEVR_val_003008.png",
+    "question": "Subtract all gray cylinders. Subtract all large gray things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large gray metal sphere\nlarge gray metal cube\nlarge gray metal cylinder"
+  },
+  "34237": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004284.png",
+    "image_id": "CLEVR_val_004284.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 2,
+    "parsing_result": "large green rubber cylinder"
+  },
+  "88735": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011136.png",
+    "image_id": "CLEVR_val_011136.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "template": "subtraction",
+    "label": 3,
+    "parsing_result": "small gray rubber cylinder"
+  },
+  "74574": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009350.png",
+    "image_id": "CLEVR_val_009350.png",
+    "question": "Add 1 tiny matte things. How many tiny matte things are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": null
+  },
+  "98236": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012338.png",
+    "image_id": "CLEVR_val_012338.png",
+    "question": "Add 2 small metallic balls. How many objects exist?",
+    "template": "addition",
+    "label": 10,
+    "parsing_result": "small gray metal sphere\nlarge yellow metal sphere\nlarge red metal sphere"
+  },
+  "104694": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013158.png",
+    "image_id": "CLEVR_val_013158.png",
+    "question": "Add 1 small blue matte objects. How many small blue matte objects are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "small blue rubber cube"
+  },
+  "56916": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007127.png",
+    "image_id": "CLEVR_val_007127.png",
+    "question": "Add 3 cyan objects. How many cyan objects are left?",
+    "template": "addition",
+    "label": 4,
+    "parsing_result": "large cyan rubber sphere"
+  },
+  "85447": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010745.png",
+    "image_id": "CLEVR_val_010745.png",
+    "question": "Add 1 yellow metal objects. How many yellow metal objects are left?",
+    "template": "addition",
+    "label": 2,
+    "parsing_result": "small yellow metal cube"
+  },
+  "16255": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002022.png",
+    "image_id": "CLEVR_val_002022.png",
+    "question": "Add 6 red matte spheres. How many red matte spheres exist?",
+    "template": "addition",
+    "label": 7,
+    "parsing_result": null
+  },
+  "59719": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007502.png",
+    "image_id": "CLEVR_val_007502.png",
+    "question": "Subtract all yellow cylinders. How many red balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "13446": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001666.png",
+    "image_id": "CLEVR_val_001666.png",
+    "question": "Subtract all tiny cyan metallic things. Subtract all big metallic cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "small blue metal cylinder\nlarge blue metal cylinder\nsmall red rubber cube\nlarge blue rubber cylinder\nlarge yellow metal cube"
+  },
+  "63390": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007956.png",
+    "image_id": "CLEVR_val_007956.png",
+    "question": "Subtract all tiny gray rubber spheres. Subtract all large red things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "small brown rubber cube\nlarge blue metal cube\nlarge gray metal cylinder\nsmall red rubber cube\nlarge gray rubber cube\nsmall green metal cube\nsmall brown metal cube"
+  },
+  "87638": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011015.png",
+    "image_id": "CLEVR_val_011015.png",
+    "question": "Subtract all red matte cylinders. Subtract all big purple shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": null
+  },
+  "90520": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011365.png",
+    "image_id": "CLEVR_val_011365.png",
+    "question": "Subtract all cyan balls. Subtract all red cubes. How many balls are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "Your response should be:\nsmall blue metal sphere\nlarge yellow metal sphere\nlarge blue metal sphere\nsmall blue rubber sphere\nsmall yellow metal sphere"
+  },
+  "85523": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010754.png",
+    "image_id": "CLEVR_val_010754.png",
+    "question": "Subtract all blue things. Subtract all tiny blue objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "small blue metal cube\nsmall blue metal cube\nsmall blue metal cube\nsmall blue rubber cube"
+  },
+  "46824": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005858.png",
+    "image_id": "CLEVR_val_005858.png",
+    "question": "Subtract all large blue metal balls. Subtract all big cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": null
+  },
+  "106288": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013355.png",
+    "image_id": "CLEVR_val_013355.png",
+    "question": "Subtract all tiny cyan things. Subtract all cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "Your response should be: ''"
+  },
+  "27663": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003459.png",
+    "image_id": "CLEVR_val_003459.png",
+    "question": "Subtract all yellow cubes. Subtract all green balls. How many cubes are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "small green metal cube\nsmall brown rubber cube\nsmall gray rubber cube\nlarge purple metal cube"
+  },
+  "72446": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009083.png",
+    "image_id": "CLEVR_val_009083.png",
+    "question": "Subtract all brown balls. Subtract all cyan cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "Your response should be:\nlarge cyan rubber sphere\nsmall green metal sphere\nlarge cyan rubber sphere\nlarge yellow rubber sphere"
+  },
+  "13441": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001666.png",
+    "image_id": "CLEVR_val_001666.png",
+    "question": "Subtract all cyan cylinders. Subtract all red spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "small blue metal cylinder\nlarge blue metal cylinder\nlarge blue rubber cylinder"
+  },
+  "32630": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004072.png",
+    "image_id": "CLEVR_val_004072.png",
+    "question": "Subtract all red spheres. How many purple cubes are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large purple rubber cube"
+  },
+  "20009": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002502.png",
+    "image_id": "CLEVR_val_002502.png",
+    "question": "Subtract all blue cylinders. Subtract all red balls. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large cyan metal cylinder\nlarge purple rubber cylinder\nlarge cyan rubber cylinder\nlarge purple rubber cylinder"
+  },
+  "75391": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009468.png",
+    "image_id": "CLEVR_val_009468.png",
+    "question": "Subtract all small purple things. Subtract all purple things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "small purple metal cube"
+  },
+  "95548": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012013.png",
+    "image_id": "CLEVR_val_012013.png",
+    "question": "Subtract all red balls. How many blue blocks are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "333": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000034.png",
+    "image_id": "CLEVR_val_000034.png",
+    "question": "Subtract all gray cylinders. Subtract all cyan cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large green metal cylinder\nlarge green metal cylinder"
+  },
+  "1400": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000161.png",
+    "image_id": "CLEVR_val_000161.png",
+    "question": "Subtract all large blue rubber cylinders. Subtract all small gray metallic things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large green metal cylinder\nlarge brown rubber sphere\nlarge purple metal sphere\nlarge green rubber cube\nsmall blue rubber cube\nlarge cyan metal sphere\nlarge green rubber cylinder"
+  },
+  "115280": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014506.png",
+    "image_id": "CLEVR_val_014506.png",
+    "question": "Subtract all gray rubber things. Subtract all blue rubber cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "large gray rubber cube\nlarge blue rubber cube"
+  },
+  "33984": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004258.png",
+    "image_id": "CLEVR_val_004258.png",
+    "question": "Subtract all large green balls. Subtract all big yellow metal cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "large green rubber cylinder\nlarge yellow metal cylinder"
+  },
+  "23548": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002937.png",
+    "image_id": "CLEVR_val_002937.png",
+    "question": "Subtract all yellow metal blocks. Subtract all small yellow objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "large yellow metal sphere\nsmall yellow rubber sphere\nsmall yellow metal cube"
+  },
+  "100024": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012566.png",
+    "image_id": "CLEVR_val_012566.png",
+    "question": "Subtract all large gray metal balls. Subtract all big cyan things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large gray metal sphere"
+  },
+  "33267": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004153.png",
+    "image_id": "CLEVR_val_004153.png",
+    "question": "Subtract all gray cubes. Subtract all large purple cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large purple rubber cylinder\nlarge purple metal cylinder\nlarge purple rubber cylinder"
+  },
+  "47966": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006018.png",
+    "image_id": "CLEVR_val_006018.png",
+    "question": "Subtract all brown spheres. Subtract all tiny shiny things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "large brown rubber sphere"
+  },
+  "62049": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007787.png",
+    "image_id": "CLEVR_val_007787.png",
+    "question": "Subtract all rubber balls. Subtract all cyan rubber blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "small red rubber sphere\nsmall cyan rubber cube\nlarge red rubber cube"
+  },
+  "97704": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012283.png",
+    "image_id": "CLEVR_val_012283.png",
+    "question": "Subtract all gray rubber blocks. Subtract all small objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "small red rubber sphere\nsmall blue metal cube"
+  },
+  "6905": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000848.png",
+    "image_id": "CLEVR_val_000848.png",
+    "question": "Subtract all tiny purple things. Subtract all big blue shiny objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": null
+  },
+  "97887": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012302.png",
+    "image_id": "CLEVR_val_012302.png",
+    "question": "Subtract all cyan cubes. How many blue spheres are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": "The question does not mention any objects from the description."
+  },
+  "82679": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010376.png",
+    "image_id": "CLEVR_val_010376.png",
+    "question": "Subtract all green spheres. Subtract all large rubber things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "small green metal sphere\nlarge gray rubber cylinder\nlarge brown rubber sphere\nsmall green rubber cylinder\nsmall green rubber cube"
+  },
+  "50944": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006375.png",
+    "image_id": "CLEVR_val_006375.png",
+    "question": "Subtract all small brown matte objects. Subtract all large purple metal balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "small yellow metal cube\nsmall green metal cylinder\nlarge brown metal cube\nsmall cyan metal cube\nlarge purple metal sphere\nsmall yellow metal sphere\nsmall green rubber cube\nlarge cyan metal sphere\nsmall gray metal cube"
+  },
+  "4907": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000594.png",
+    "image_id": "CLEVR_val_000594.png",
+    "question": "Subtract all large matte things. Subtract all cyan objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large gray metal cylinder\nlarge purple rubber sphere\nsmall cyan rubber cube"
+  },
+  "102184": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012836.png",
+    "image_id": "CLEVR_val_012836.png",
+    "question": "Subtract all yellow rubber spheres. Subtract all metal objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "small gray metal sphere\nsmall gray metal cylinder\nsmall yellow rubber sphere\nsmall red metal cube"
+  },
+  "90069": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011313.png",
+    "image_id": "CLEVR_val_011313.png",
+    "question": "Subtract all big blue metal things. Subtract all cyan matte things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": null
+  },
+  "115373": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014516.png",
+    "image_id": "CLEVR_val_014516.png",
+    "question": "Subtract all blue blocks. Subtract all red cylinders. How many blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "small blue rubber cube\nlarge green metal cylinder\nsmall red rubber sphere\nlarge red metal sphere\nlarge blue metal cube\nsmall red metal cylinder\nlarge brown metal cube\nsmall green rubber cube\nlarge blue rubber sphere\nsmall brown rubber sphere\nlarge green rubber cube\nsmall green metal sphere\nlarge brown rubber cube\nsmall blue metal sphere\nlarge red rubber cube\nsmall green rubber cylinder\nlarge blue metal cylinder\nsmall brown metal sphere\nlarge green metal sphere\nsmall red rubber cube\nlarge brown metal sphere\nsmall blue rubber sphere\nlarge red metal cylinder\nsmall green metal cube\nlarge green rubber sphere\nsmall brown rubber cube\nlarge blue rubber cube\nsmall red metal sphere\nlarge brown metal cylinder\nsmall green rubber sphere\nlarge red rubber cube\nsmall blue metal cylinder\nlarge green metal cube\nsmall brown metal sphere\nlarge blue rubber cube\nsmall red rubber cylinder\nlarge brown rubber sphere\nsmall green metal cylinder\nlarge red metal cube\nsmall blue rubber cube\nlarge green rubber sphere\nsmall brown rubber cylinder\nlarge blue metal sphere\nsmall red rubber cube\nlarge green metal sphere\nsmall brown metal cube\nlarge red rubber sphere\nsmall blue metal cylinder\nlarge brown metal cube\nsmall green rubber cube\nlarge blue rubber cube\nsmall red metal sphere\nlarge green rubber sphere\nsmall brown rubber sphere\nlarge blue metal cylinder\nsmall red rubber cube\nlarge green metal cube\nsmall brown metal sphere\nlarge red rubber cube\nsmall blue rubber cylinder\nlarge brown rubber sphere\nsmall green metal cylinder\nlarge blue metal cube\nsmall red rubber sphere\nlarge green rubber cube\nsmall brown rubber cube\nlarge red metal sphere\nsmall blue metal cube\nlarge green metal cylinder\nsmall red rubber cube\nlarge brown metal sphere\nsmall green rubber sphere\nlarge blue rubber cube\nsmall red metal cylinder\nlarge green metal sphere\nsmall brown metal cube\nlarge red rubber sphere\nsmall blue rubber cylinder\nlarge brown rubber cube\nsmall green metal sphere\nlarge blue metal sphere\nsmall red rubber cube\nlarge green metal cylinder\nsmall brown rubber sphere\nlarge red metal cube\nsmall blue rubber sphere\nlarge green rubber cube\nsmall brown metal cube\nlarge blue rubber sphere\nsmall red metal sphere\nlarge green metal cube\nsmall brown rubber cylinder\nlarge red rubber cube\nsmall blue metal cylinder\nlarge brown metal sphere\nsmall green rubber cube\nlarge blue rubber cube\nsmall red metal sphere\nlarge green rubber sphere\nsmall brown rubber sphere\nlarge red metal cylinder\nsmall blue rubber cube\nlarge green metal cube\nsmall brown metal sphere\nlarge blue rubber cube\nsmall red rubber cylinder\nlarge green metal sphere\nsmall brown rubber cube\nlarge red rubber sphere\nsmall blue metal cylinder\nlarge brown metal cube\nsmall green rubber sphere\nlarge blue rubber cube\nsmall red metal sphere\nlarge green rubber sphere\nsmall brown rubber cylinder\nlarge red metal cylinder\nsmall blue rubber cube\nlarge green metal cube\nsmall brown metal sphere\n"
+  },
+  "26614": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003319.png",
+    "image_id": "CLEVR_val_003319.png",
+    "question": "Subtract all cyan cubes. How many gray balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large gray rubber sphere\nsmall gray metal sphere"
+  },
+  "81623": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010259.png",
+    "image_id": "CLEVR_val_010259.png",
+    "question": "Subtract all brown cylinders. How many green balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "56421": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007068.png",
+    "image_id": "CLEVR_val_007068.png",
+    "question": "Subtract all brown things. Subtract all purple cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "small purple metal cube\nlarge brown metal sphere\nlarge purple rubber cube"
+  },
+  "51847": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006509.png",
+    "image_id": "CLEVR_val_006509.png",
+    "question": "Subtract all brown cylinders. Subtract all green balls. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large yellow rubber cylinder\nsmall green metal cylinder\nlarge cyan metal cylinder\nsmall yellow metal cylinder"
+  },
+  "4009": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000500.png",
+    "image_id": "CLEVR_val_000500.png",
+    "question": "Subtract all green cubes. How many yellow spheres are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "112474": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014136.png",
+    "image_id": "CLEVR_val_014136.png",
+    "question": "Subtract all tiny matte objects. Subtract all red rubber balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "small red rubber sphere\nlarge red rubber sphere"
+  },
+  "15989": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001992.png",
+    "image_id": "CLEVR_val_001992.png",
+    "question": "Subtract all brown spheres. Subtract all tiny green blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large brown rubber sphere"
+  },
+  "112543": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014145.png",
+    "image_id": "CLEVR_val_014145.png",
+    "question": "Subtract all red cubes. Subtract all yellow metallic things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "small red metal cube\nsmall yellow metal cylinder"
+  },
+  "4695": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000570.png",
+    "image_id": "CLEVR_val_000570.png",
+    "question": "Subtract all brown cubes. Subtract all gray cylinders. How many cubes are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "small brown metal cube\nsmall blue metal cube"
+  },
+  "47251": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005919.png",
+    "image_id": "CLEVR_val_005919.png",
+    "question": "Subtract all tiny shiny cylinders. Subtract all green rubber spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "small green rubber sphere"
+  },
+  "92807": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011655.png",
+    "image_id": "CLEVR_val_011655.png",
+    "question": "Subtract all brown spheres. Subtract all cyan cylinders. How many spheres are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "Your response should be:\nsmall blue rubber sphere\nsmall red metal sphere\nlarge blue metal sphere\nsmall blue metal sphere\nlarge green rubber sphere"
+  },
+  "107598": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013532.png",
+    "image_id": "CLEVR_val_013532.png",
+    "question": "Subtract all yellow cylinders. How many cyan blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large cyan metal cube"
+  },
+  "51211": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006414.png",
+    "image_id": "CLEVR_val_006414.png",
+    "question": "Subtract all large brown rubber cylinders. Subtract all blue rubber balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "'large blue rubber sphere'"
+  },
+  "104005": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013070.png",
+    "image_id": "CLEVR_val_013070.png",
+    "question": "Subtract all yellow balls. Subtract all cyan cubes. How many balls are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": null
+  },
+  "93649": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011770.png",
+    "image_id": "CLEVR_val_011770.png",
+    "question": "Subtract all big matte spheres. Subtract all metal cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "large red metal cylinder\nlarge brown metal sphere\nsmall yellow rubber sphere\nlarge red rubber sphere\nlarge green metal cube\nlarge blue rubber cylinder\nlarge green metal sphere"
+  },
+  "60869": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007628.png",
+    "image_id": "CLEVR_val_007628.png",
+    "question": "Subtract all green cylinders. Subtract all purple spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 6,
+    "parsing_result": "large blue metal cylinder\nsmall yellow rubber cylinder\nsmall blue metal cylinder\nlarge yellow metal cylinder\nsmall cyan metal cylinder\nsmall blue rubber cylinder"
+  },
+  "91475": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011502.png",
+    "image_id": "CLEVR_val_011502.png",
+    "question": "Subtract all yellow cubes. Subtract all yellow balls. How many cubes are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": null
+  },
+  "71132": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008930.png",
+    "image_id": "CLEVR_val_008930.png",
+    "question": "Subtract all tiny red rubber objects. Subtract all tiny metallic cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "Your response should be: ''"
+  },
+  "65949": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008279.png",
+    "image_id": "CLEVR_val_008279.png",
+    "question": "Subtract all red blocks. Subtract all brown balls. How many blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "Your response should be: \n'large blue metal cube'"
+  },
+  "99584": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012521.png",
+    "image_id": "CLEVR_val_012521.png",
+    "question": "Subtract all blue balls. Subtract all blue cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": null
+  },
+  "9647": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001205.png",
+    "image_id": "CLEVR_val_001205.png",
+    "question": "Subtract all tiny gray things. Subtract all big matte cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "small gray metal sphere"
+  },
+  "44908": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005617.png",
+    "image_id": "CLEVR_val_005617.png",
+    "question": "Subtract all cyan balls. How many purple cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large purple metal cylinder\nsmall purple metal cylinder\nsmall purple metal cylinder"
+  },
+  "72361": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009074.png",
+    "image_id": "CLEVR_val_009074.png",
+    "question": "Subtract all green cubes. Subtract all big brown rubber cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "large brown rubber cylinder\nlarge green metal cube"
+  },
+  "118627": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014918.png",
+    "image_id": "CLEVR_val_014918.png",
+    "question": "Subtract all brown cubes. Subtract all green cylinders. How many cubes are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large cyan metal cube\nlarge red rubber cube\nsmall red rubber cube\nsmall purple rubber cube"
+  },
+  "77944": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009788.png",
+    "image_id": "CLEVR_val_009788.png",
+    "question": "Subtract all gray metallic spheres. Subtract all big purple metal balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "large gray metal sphere"
+  },
+  "72634": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009105.png",
+    "image_id": "CLEVR_val_009105.png",
+    "question": "Subtract all cyan balls. Subtract all green cubes. How many balls are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "Your response should be: ''"
+  },
+  "11025": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001365.png",
+    "image_id": "CLEVR_val_001365.png",
+    "question": "Subtract all large cubes. Subtract all tiny cyan cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "large brown metal cube\nsmall purple rubber cube"
+  },
+  "21882": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002736.png",
+    "image_id": "CLEVR_val_002736.png",
+    "question": "Subtract all big rubber objects. Subtract all tiny gray things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "small cyan rubber cylinder\nsmall green rubber sphere\nsmall gray metal sphere\nlarge purple rubber cube\nsmall brown metal cylinder\nlarge purple metal cylinder"
+  },
+  "67217": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008433.png",
+    "image_id": "CLEVR_val_008433.png",
+    "question": "Subtract all red metallic cylinders. Subtract all big red shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "large red metal cylinder"
+  },
+  "60300": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007561.png",
+    "image_id": "CLEVR_val_007561.png",
+    "question": "Subtract all big purple shiny things. Subtract all small blue matte things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "large purple metal sphere\nsmall blue rubber cylinder\nlarge purple rubber cylinder\nsmall blue metal cube"
+  },
+  "99057": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012454.png",
+    "image_id": "CLEVR_val_012454.png",
+    "question": "Subtract all blue blocks. Subtract all yellow rubber cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "small green metal cylinder\nlarge blue metal cylinder\nsmall purple metal cylinder\nlarge blue metal cube"
+  },
+  "88984": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011176.png",
+    "image_id": "CLEVR_val_011176.png",
+    "question": "Subtract all red cylinders. Subtract all purple balls. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large brown rubber cylinder\nlarge green rubber cylinder\nlarge green metal cylinder\nlarge yellow metal cylinder\nlarge purple rubber cylinder"
+  },
+  "20969": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002603.png",
+    "image_id": "CLEVR_val_002603.png",
+    "question": "Subtract all blue cylinders. Subtract all purple cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "small cyan rubber cylinder\nlarge green metal cylinder\nlarge red rubber cylinder\nlarge gray rubber cylinder"
+  },
+  "22155": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002769.png",
+    "image_id": "CLEVR_val_002769.png",
+    "question": "Subtract all yellow blocks. Subtract all gray balls. How many blocks are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large red rubber cube\nsmall green rubber cube"
+  },
+  "42526": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005319.png",
+    "image_id": "CLEVR_val_005319.png",
+    "question": "Subtract all red blocks. How many gray balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large gray metal sphere\nlarge gray rubber sphere"
+  },
+  "115792": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_014559.png",
+    "image_id": "CLEVR_val_014559.png",
+    "question": "Subtract all large gray shiny things. Subtract all green shiny objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "large gray metal cylinder\nlarge green metal cylinder"
+  },
+  "81326": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010221.png",
+    "image_id": "CLEVR_val_010221.png",
+    "question": "Subtract all red balls. Subtract all yellow cubes. How many balls are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large green rubber sphere\nlarge brown rubber sphere\nlarge green rubber sphere\nsmall brown metal sphere"
+  },
+  "54832": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006863.png",
+    "image_id": "CLEVR_val_006863.png",
+    "question": "Subtract all big yellow things. Subtract all blue blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large yellow rubber sphere\nlarge blue metal cylinder\nlarge yellow rubber cube\nlarge blue metal cube"
+  },
+  "56310": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007056.png",
+    "image_id": "CLEVR_val_007056.png",
+    "question": "Subtract all big yellow cubes. Subtract all rubber balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": null
+  },
+  "7250": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000894.png",
+    "image_id": "CLEVR_val_000894.png",
+    "question": "Subtract all small gray rubber cylinders. Subtract all yellow objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "Your response should be:\n'large yellow rubber sphere\nlarge yellow rubber sphere\n'"
+  },
+  "19547": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002433.png",
+    "image_id": "CLEVR_val_002433.png",
+    "question": "Subtract all green cylinders. Subtract all green cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large blue rubber cylinder\nlarge brown rubber cylinder\nsmall purple rubber cylinder\nsmall purple rubber cylinder"
+  },
+  "87834": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011035.png",
+    "image_id": "CLEVR_val_011035.png",
+    "question": "Subtract all purple balls. Subtract all cyan cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "'large green metal sphere\nlarge gray rubber sphere'"
+  },
+  "107349": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013506.png",
+    "image_id": "CLEVR_val_013506.png",
+    "question": "Subtract all red rubber blocks. Subtract all matte objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 0,
+    "parsing_result": "small red rubber sphere"
+  },
+  "83561": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010509.png",
+    "image_id": "CLEVR_val_010509.png",
+    "question": "Subtract all brown cylinders. How many cyan cubes are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": "'large green rubber cylinder\nsmall brown rubber cylinder\n'"
+  },
+  "6702": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000825.png",
+    "image_id": "CLEVR_val_000825.png",
+    "question": "Subtract all tiny purple objects. Subtract all small green shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "small green shiny cylinder\nlarge green shiny cylinder\nsmall red rubber sphere\nsmall purple metal cube\nsmall green shiny cylinder"
+  },
+  "35963": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004506.png",
+    "image_id": "CLEVR_val_004506.png",
+    "question": "Subtract all green matte things. Subtract all tiny cyan objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "small green metal sphere\nlarge green rubber cylinder\nlarge green metal sphere"
+  },
+  "25880": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003239.png",
+    "image_id": "CLEVR_val_003239.png",
+    "question": "Subtract all large purple cubes. Subtract all red metallic spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large red metal sphere"
+  },
+  "96400": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012105.png",
+    "image_id": "CLEVR_val_012105.png",
+    "question": "Subtract all brown cubes. Subtract all purple cylinders. How many cubes are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large yellow metal cube\nsmall red metal cube\nlarge cyan rubber cube\nsmall gray rubber cube"
+  },
+  "51312": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006429.png",
+    "image_id": "CLEVR_val_006429.png",
+    "question": "Subtract all red cubes. Subtract all blue balls. How many cubes are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "small blue metal sphere\nlarge purple metal cube\nlarge blue metal cylinder\nlarge cyan rubber cube\nlarge gray rubber cube\nsmall cyan metal cube"
+  },
+  "69316": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008703.png",
+    "image_id": "CLEVR_val_008703.png",
+    "question": "Subtract all big metal things. Subtract all small yellow rubber spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "large blue metal cube\nlarge red metal cube"
+  },
+  "16103": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002006.png",
+    "image_id": "CLEVR_val_002006.png",
+    "question": "Subtract all purple cylinders. How many green balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "31896": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003995.png",
+    "image_id": "CLEVR_val_003995.png",
+    "question": "Subtract all big objects. Subtract all small objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 0,
+    "parsing_result": "Your response should be: ''"
+  },
+  "39050": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004879.png",
+    "image_id": "CLEVR_val_004879.png",
+    "question": "Subtract all large brown shiny objects. Subtract all yellow objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "large brown rubber sphere\nlarge yellow metal sphere"
+  },
+  "106270": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013353.png",
+    "image_id": "CLEVR_val_013353.png",
+    "question": "Subtract all blue cylinders. Subtract all gray cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large brown rubber cylinder\nsmall purple rubber cylinder\nsmall purple rubber cylinder\nsmall cyan rubber cylinder"
+  },
+  "15473": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001913.png",
+    "image_id": "CLEVR_val_001913.png",
+    "question": "Subtract all brown cylinders. Subtract all cyan spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "large brown rubber cylinder\nsmall cyan metal sphere"
+  },
+  "79519": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009997.png",
+    "image_id": "CLEVR_val_009997.png",
+    "question": "Subtract all tiny gray metal cylinders. Subtract all large brown cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": null
+  },
+  "3962": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000492.png",
+    "image_id": "CLEVR_val_000492.png",
+    "question": "Subtract all cylinders. Subtract all large matte objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "large yellow metal cube\nlarge green metal cube\nsmall blue rubber cube\nsmall gray rubber cube\nsmall brown rubber sphere\nlarge yellow metal cube\nlarge red metal sphere"
+  },
+  "59241": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007427.png",
+    "image_id": "CLEVR_val_007427.png",
+    "question": "Subtract all large green blocks. Subtract all large cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "large green metal cube\nlarge cyan metal cylinder"
+  },
+  "30715": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003831.png",
+    "image_id": "CLEVR_val_003831.png",
+    "question": "Subtract all purple cylinders. Subtract all gray cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large gray rubber cylinder\nlarge red rubber cylinder\nlarge red metal cylinder"
+  },
+  "38102": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004772.png",
+    "image_id": "CLEVR_val_004772.png",
+    "question": "Subtract all yellow metallic cylinders. Subtract all gray metal things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large brown metal cylinder\nsmall cyan rubber cylinder\nsmall blue metal sphere\nlarge gray rubber cylinder\nlarge red rubber sphere\nlarge red rubber sphere\nsmall gray metal sphere\nsmall purple metal cube\nlarge yellow metal cylinder"
+  },
+  "94976": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011931.png",
+    "image_id": "CLEVR_val_011931.png",
+    "question": "Subtract all tiny blue matte things. Subtract all cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "Your response should be: \n\nlarge red rubber cube\nlarge yellow metal cylinder\nsmall red rubber cylinder\nlarge brown metal cylinder"
+  },
+  "104275": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013100.png",
+    "image_id": "CLEVR_val_013100.png",
+    "question": "Subtract all blue spheres. How many green cylinders are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large green rubber cylinder\nsmall green rubber cylinder"
+  },
+  "70111": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008802.png",
+    "image_id": "CLEVR_val_008802.png",
+    "question": "Subtract all balls. Subtract all big green shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large brown metal cube\nlarge cyan metal cylinder\nlarge cyan rubber cube\nsmall red metal cube"
+  },
+  "101666": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012782.png",
+    "image_id": "CLEVR_val_012782.png",
+    "question": "Subtract all metallic spheres. Subtract all gray rubber cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "large blue metal sphere\nlarge cyan metal sphere"
+  },
+  "65573": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008235.png",
+    "image_id": "CLEVR_val_008235.png",
+    "question": "Subtract all yellow matte things. Subtract all shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "large gray metal cylinder\nsmall yellow metal sphere\nsmall red rubber sphere"
+  },
+  "52230": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006548.png",
+    "image_id": "CLEVR_val_006548.png",
+    "question": "Subtract all large cyan metallic things. Subtract all tiny objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "large cyan metal sphere\nlarge brown rubber cube\nlarge gray rubber cylinder"
+  },
+  "103395": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013006.png",
+    "image_id": "CLEVR_val_013006.png",
+    "question": "Subtract all big blue rubber objects. Subtract all big purple metallic spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "large blue rubber sphere"
+  },
+  "74719": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009370.png",
+    "image_id": "CLEVR_val_009370.png",
+    "question": "Subtract all cyan cylinders. Subtract all red spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large brown rubber cylinder\nsmall purple rubber cylinder\nsmall green rubber cylinder\nsmall green rubber cylinder"
+  },
+  "52197": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_006545.png",
+    "image_id": "CLEVR_val_006545.png",
+    "question": "Subtract all tiny blue cylinders. Subtract all large yellow rubber things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 5,
+    "parsing_result": "large yellow rubber sphere\nlarge blue rubber cylinder"
+  },
+  "44013": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005519.png",
+    "image_id": "CLEVR_val_005519.png",
+    "question": "Subtract all yellow rubber blocks. Subtract all matte spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "small yellow rubber cube"
+  },
+  "92046": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011561.png",
+    "image_id": "CLEVR_val_011561.png",
+    "question": "Subtract all brown blocks. How many gray spheres are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large gray rubber sphere\nlarge gray metal sphere"
+  },
+  "28175": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003523.png",
+    "image_id": "CLEVR_val_003523.png",
+    "question": "Subtract all cyan balls. How many yellow cylinders are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": "The description does not contain any cyan balls or yellow cylinders."
+  },
+  "73089": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009169.png",
+    "image_id": "CLEVR_val_009169.png",
+    "question": "Subtract all large rubber balls. Subtract all big purple shiny balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 7,
+    "parsing_result": "large cyan rubber sphere\nlarge green rubber sphere"
+  },
+  "7971": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001003.png",
+    "image_id": "CLEVR_val_001003.png",
+    "question": "Subtract all metal things. Subtract all shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "large purple metal cube\nlarge red metal cylinder"
+  },
+  "75609": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009501.png",
+    "image_id": "CLEVR_val_009501.png",
+    "question": "Subtract all red cylinders. Subtract all brown cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "small brown rubber cylinder\nsmall gray metal cylinder\nlarge brown rubber cylinder"
+  },
+  "95209": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011966.png",
+    "image_id": "CLEVR_val_011966.png",
+    "question": "Subtract all large rubber blocks. Subtract all small red blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "small red metal cube\nlarge red rubber cube\nlarge brown rubber cube"
+  },
+  "44608": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005582.png",
+    "image_id": "CLEVR_val_005582.png",
+    "question": "Subtract all cyan cubes. How many brown cylinders are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small brown metal cylinder\nsmall brown rubber cylinder"
+  },
+  "80963": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010166.png",
+    "image_id": "CLEVR_val_010166.png",
+    "question": "Subtract all metal blocks. Subtract all gray cubes. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "large yellow metal cylinder\nsmall red metal sphere\nsmall gray metal cube"
+  },
+  "81602": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010257.png",
+    "image_id": "CLEVR_val_010257.png",
+    "question": "Subtract all yellow cylinders. Subtract all gray cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large green metal cylinder\nlarge yellow metal cylinder"
+  },
+  "96444": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012110.png",
+    "image_id": "CLEVR_val_012110.png",
+    "question": "Subtract all large objects. Subtract all purple metal blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large brown rubber cylinder\nlarge gray metal sphere\nlarge cyan rubber sphere\nlarge blue metal cube"
+  },
+  "82125": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010311.png",
+    "image_id": "CLEVR_val_010311.png",
+    "question": "Subtract all purple things. Subtract all cyan shiny objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": null
+  },
+  "83995": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010553.png",
+    "image_id": "CLEVR_val_010553.png",
+    "question": "Subtract all red cylinders. How many brown balls are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "106887": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013441.png",
+    "image_id": "CLEVR_val_013441.png",
+    "question": "Subtract all yellow cylinders. Subtract all blue spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large blue metal cylinder\nlarge cyan metal cylinder\nsmall green rubber cylinder\nlarge purple rubber cylinder\nlarge gray rubber cylinder"
+  },
+  "2229": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000273.png",
+    "image_id": "CLEVR_val_000273.png",
+    "question": "Subtract all large purple shiny objects. Subtract all cyan rubber blocks. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 8,
+    "parsing_result": "large purple metal sphere\nsmall cyan rubber cube"
+  },
+  "67261": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008440.png",
+    "image_id": "CLEVR_val_008440.png",
+    "question": "Subtract all red rubber objects. Subtract all large rubber spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 6,
+    "parsing_result": "small red rubber sphere"
+  },
+  "60332": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007565.png",
+    "image_id": "CLEVR_val_007565.png",
+    "question": "Subtract all red cylinders. How many blue balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large red metal sphere\nlarge blue rubber sphere\nlarge blue metal sphere"
+  },
+  "4767": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000578.png",
+    "image_id": "CLEVR_val_000578.png",
+    "question": "Subtract all large yellow blocks. Subtract all large yellow shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 1,
+    "parsing_result": "large yellow metal cylinder\nlarge yellow metal cube"
+  },
+  "28361": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003542.png",
+    "image_id": "CLEVR_val_003542.png",
+    "question": "Subtract all blue objects. Subtract all small cyan things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "large gray rubber cube\nlarge yellow metal cylinder\nlarge cyan metal sphere\nsmall cyan rubber cube"
+  },
+  "44183": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005537.png",
+    "image_id": "CLEVR_val_005537.png",
+    "question": "Subtract all purple blocks. Subtract all cyan cylinders. How many blocks are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "Your response should be: ''"
+  },
+  "70404": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008834.png",
+    "image_id": "CLEVR_val_008834.png",
+    "question": "Subtract all blue cubes. How many cyan balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small blue rubber sphere\nsmall cyan rubber sphere\nlarge cyan metal sphere"
+  },
+  "69710": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008761.png",
+    "image_id": "CLEVR_val_008761.png",
+    "question": "Subtract all cyan spheres. How many green blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "The question asks about \"cyan spheres\" and \"green blocks\", but the description does not mention any of these objects. Therefore, the response is an empty string."
+  },
+  "22212": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002775.png",
+    "image_id": "CLEVR_val_002775.png",
+    "question": "Subtract all brown spheres. How many cyan blocks are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "64922": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008138.png",
+    "image_id": "CLEVR_val_008138.png",
+    "question": "Subtract all gray matte things. Subtract all big balls. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 2,
+    "parsing_result": "large gray rubber sphere"
+  },
+  "13096": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001620.png",
+    "image_id": "CLEVR_val_001620.png",
+    "question": "Subtract all cyan balls. How many brown cylinders are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small brown metal cylinder\nsmall brown rubber cylinder"
+  },
+  "64518": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008088.png",
+    "image_id": "CLEVR_val_008088.png",
+    "question": "Subtract all yellow cylinders. Subtract all gray cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large cyan rubber cylinder\nsmall green metal cylinder\nsmall brown metal cylinder"
+  },
+  "63588": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007986.png",
+    "image_id": "CLEVR_val_007986.png",
+    "question": "Subtract all cyan metal things. Subtract all big spheres. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": null
+  },
+  "63626": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007992.png",
+    "image_id": "CLEVR_val_007992.png",
+    "question": "Subtract all blue balls. Subtract all brown objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "small blue metal cube\nlarge blue rubber cube\nsmall brown metal sphere"
+  },
+  "87747": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_011026.png",
+    "image_id": "CLEVR_val_011026.png",
+    "question": "Subtract all green cylinders. How many red cubes are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large red metal cube"
+  },
+  "11644": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001451.png",
+    "image_id": "CLEVR_val_001451.png",
+    "question": "Subtract all brown cylinders. Subtract all green metallic objects. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "small green rubber cube\nlarge green metal cylinder\nsmall brown metal cylinder"
+  },
+  "44847": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005610.png",
+    "image_id": "CLEVR_val_005610.png",
+    "question": "Subtract all gray cubes. How many purple balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large purple metal sphere\nsmall purple rubber sphere"
+  },
+  "21761": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002716.png",
+    "image_id": "CLEVR_val_002716.png",
+    "question": "Subtract all big objects. Subtract all tiny things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 0,
+    "parsing_result": "small brown rubber cylinder"
+  },
+  "107120": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013478.png",
+    "image_id": "CLEVR_val_013478.png",
+    "question": "Subtract all small purple cubes. Subtract all big purple rubber things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 3,
+    "parsing_result": "small purple rubber cube\nlarge purple rubber sphere"
+  },
+  "81561": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010253.png",
+    "image_id": "CLEVR_val_010253.png",
+    "question": "Subtract all green cubes. How many blue spheres are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "small blue rubber sphere"
+  },
+  "61724": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_007754.png",
+    "image_id": "CLEVR_val_007754.png",
+    "question": "Subtract all green balls. Subtract all cyan cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "large red metal sphere"
+  },
+  "84915": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010669.png",
+    "image_id": "CLEVR_val_010669.png",
+    "question": "Subtract all cyan cubes. Subtract all cyan balls. How many cubes are left?",
+    "template": "adversarial",
+    "label": 6,
+    "parsing_result": "large blue metal cube\nlarge green rubber cube\nlarge blue metal cube\nsmall green rubber cube\nsmall red metal cube\nlarge green rubber cube"
+  },
+  "28661": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_003573.png",
+    "image_id": "CLEVR_val_003573.png",
+    "question": "Subtract all cyan spheres. Subtract all red cylinders. How many spheres are left?",
+    "template": "adversarial",
+    "label": 5,
+    "parsing_result": "large red rubber sphere\nlarge purple rubber sphere\nsmall purple metal sphere\nsmall gray rubber sphere"
+  },
+  "2720": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_000324.png",
+    "image_id": "CLEVR_val_000324.png",
+    "question": "Subtract all blue spheres. How many yellow cubes are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small yellow metal cube\nlarge yellow rubber cube"
+  },
+  "107932": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013566.png",
+    "image_id": "CLEVR_val_013566.png",
+    "question": "Subtract all big gray rubber cylinders. Subtract all gray shiny cylinders. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 9,
+    "parsing_result": "'large gray metal cylinder'"
+  },
+  "78009": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_009795.png",
+    "image_id": "CLEVR_val_009795.png",
+    "question": "Subtract all blue blocks. Subtract all green cylinders. How many blocks are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large gray rubber cube\nlarge blue metal cylinder\nsmall green metal cylinder\nlarge purple rubber cube\nlarge brown rubber cube"
+  },
+  "104006": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_013070.png",
+    "image_id": "CLEVR_val_013070.png",
+    "question": "Subtract all small brown things. Subtract all big cyan matte things. How many objects are left?",
+    "template": "subtraction-multihop",
+    "label": 4,
+    "parsing_result": "small brown metal sphere"
+  },
+  "84240": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010579.png",
+    "image_id": "CLEVR_val_010579.png",
+    "question": "Subtract all cyan blocks. Subtract all yellow spheres. How many blocks are left?",
+    "template": "adversarial",
+    "label": 1,
+    "parsing_result": "Your response should be: ''"
+  },
+  "12800": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_001584.png",
+    "image_id": "CLEVR_val_001584.png",
+    "question": "Subtract all blue cylinders. How many red balls are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "large red metal sphere\nlarge red metal sphere"
+  },
+  "69925": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008783.png",
+    "image_id": "CLEVR_val_008783.png",
+    "question": "Subtract all brown cylinders. How many cyan blocks are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": "large brown rubber cylinder\nsmall cyan metal cylinder\nsmall cyan metal cylinder"
+  },
+  "98325": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012348.png",
+    "image_id": "CLEVR_val_012348.png",
+    "question": "Subtract all cyan cylinders. Subtract all red cubes. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large blue metal cylinder\nsmall green rubber cylinder\nsmall green rubber cylinder"
+  },
+  "82432": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010346.png",
+    "image_id": "CLEVR_val_010346.png",
+    "question": "Subtract all red blocks. How many green spheres are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small green rubber sphere\nsmall green metal sphere"
+  },
+  "36391": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_004550.png",
+    "image_id": "CLEVR_val_004550.png",
+    "question": "Subtract all brown cylinders. How many cyan blocks are left?",
+    "template": "adversarial",
+    "label": 0,
+    "parsing_result": null
+  },
+  "100642": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_012644.png",
+    "image_id": "CLEVR_val_012644.png",
+    "question": "Subtract all yellow cylinders. How many cyan blocks are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "large yellow metal cylinder\nsmall cyan rubber cube\nsmall cyan rubber cube\nlarge cyan metal cube"
+  },
+  "70987": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_008910.png",
+    "image_id": "CLEVR_val_008910.png",
+    "question": "Subtract all blue cylinders. Subtract all cyan spheres. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 4,
+    "parsing_result": "large blue metal cylinder\nlarge yellow metal cylinder\nsmall brown metal cylinder\nlarge red metal cylinder"
+  },
+  "20891": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_002594.png",
+    "image_id": "CLEVR_val_002594.png",
+    "question": "Subtract all brown cylinders. Subtract all blue balls. How many cylinders are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "The objects mentioned in the question are not present in the description."
+  },
+  "39997": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_005014.png",
+    "image_id": "CLEVR_val_005014.png",
+    "question": "Subtract all green cylinders. How many red cubes are left?",
+    "template": "adversarial",
+    "label": 2,
+    "parsing_result": "small red rubber cube\nsmall red rubber cube"
+  },
+  "85027": {
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/0029cd1793f561790bdbb057b7fbc3c6c479115aa05b95d5dd86ed76c16794c6/CLEVR_v1.0/images/val/CLEVR_val_010685.png",
+    "image_id": "CLEVR_val_010685.png",
+    "question": "Subtract all blue balls. Subtract all brown cylinders. How many balls are left?",
+    "template": "adversarial",
+    "label": 3,
+    "parsing_result": "small cyan metal sphere\nlarge green metal sphere\nsmall red metal sphere"
+  }
+}
