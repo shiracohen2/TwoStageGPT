@@ -9,7 +9,7 @@ from conf.gpt_4_vision_config import Gpt4VisionConfig
 from conf.data_config import DataConfig
 from data_enums.image_data_enum import ImageDataEnum
 from gpt_clients.gpt4_vision_client import Gpt4VisionClient
-from logger import init_logger
+from utils.logger import init_logger
 
 
 class OracleTwoStep(BaseGptClevrSolver):

@@ -8,7 +8,7 @@ from conf.data_config import DataConfig
 from base_gpt_clevr_solver import BaseGptClevrSolver
 from data_enums.image_data_enum import ImageDataEnum
 from gpt_clients.gpt4_vision_client import Gpt4VisionClient
-from logger import init_logger
+from utils.logger import init_logger
 
 
 class ObjectsCounter(BaseGptClevrSolver):

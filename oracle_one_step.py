@@ -9,7 +9,7 @@ from conf.data_config import DataConfig
 from data_enums.clevr_descriptions_enum import ClevrDescriptionsEnum
 from data_enums.clevr_math_labels_enum import ClevrMathLabelsEnum
 from gpt_clients.gpt4_vision_client import Gpt4VisionClient
-from logger import init_logger
+from utils.logger import init_logger
 from one_step_gpt import OneStepGPT
 
 
