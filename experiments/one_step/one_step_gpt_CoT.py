@@ -11,6 +11,10 @@ from one_step_gpt import OneStepGPT
 
 
 class OneStepGPTCot(OneStepGPT):
+    """
+    This class is used to solve the questions from CLEVR-math in a one-step process.
+    It also uses a chain of thought prompting.
+    """
     def __init__(self, data_config: DataConfig, gpt_client: Gpt4VisionClient, logger: Logger):
         super().__init__(data_config=data_config, gpt_client=gpt_client, logger=logger)
         self.cot_subtraction_image: str = data_config.cot_subtraction_image
@@ -61,7 +65,7 @@ class OneStepGPTCot(OneStepGPT):
 
     def get_model_response(self, image_path: str, prompt: str) -> str:
         """
-        Get the model response for a given image and prompt.
+        This function is adding the chain of thought prompt to the model's request.
         """
         encoded_subtraction_image = self.gpt_client.encode_image(self.cot_subtraction_image)
         encoded_addition_image = self.gpt_client.encode_image(self.cot_addition_image)

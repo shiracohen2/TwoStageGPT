@@ -5,6 +5,9 @@ from gpt_clients.base_client import BaseClient
 
 
 class Gpt4VisionClient(BaseClient):
+    """
+    This class is a client for the GPT-4 Vision model.
+    """
 
     def get_vision_model_response(
             self,
@@ -20,6 +23,10 @@ class Gpt4VisionClient(BaseClient):
         return response
 
     def prepare_messages(self, image_path: str, prompt: str) -> list[dict]:
+        """
+        Prepare the messages for the GPT-4 Vision model.
+        This function expects an image path and a prompt, and adds both to the messages.
+        """
         base64_image = self.encode_image(image_path)
         messages = [
             {
@@ -41,5 +48,8 @@ class Gpt4VisionClient(BaseClient):
 
     @staticmethod
     def encode_image(image_path):
+        """
+        Encode the image to base64.
+        """
         with open(image_path, "rb") as image_file:
             return base64.b64encode(image_file.read()).decode('utf-8')

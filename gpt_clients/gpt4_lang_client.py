@@ -2,6 +2,9 @@ from gpt_clients.base_client import BaseClient
 
 
 class Gpt4LangClient(BaseClient):
+    """
+    GPT-4 client for language models.
+    """
     def get_lang_model_response(self, prompt: str) -> str:
         messages = self.prepare_messages(prompt=prompt)
         response = self._get_response(messages=messages)

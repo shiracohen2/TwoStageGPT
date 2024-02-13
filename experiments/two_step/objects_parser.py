@@ -5,13 +5,17 @@ from tqdm import tqdm
 
 from conf.gpt4_lang_config import GPT4LangConfig
 from conf.data_config import DataConfig
-from base_gpt_clevr_solver import BaseGptClevrSolver
 from data_enums.image_data_enum import ImageDataEnum
+from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
 from gpt_clients.gpt4_lang_client import Gpt4LangClient
 from utils.logger import init_logger
 
 
 class ObjectsParser(BaseGptClevrSolver):
+    """
+    This class is responsible for parsing the questions to retrieve the objects the question is focusing on.
+    Read the prompt property to understand the expected input and output.
+    """
     def __init__(self, data_config: DataConfig, gpt_client: Gpt4LangClient, logger: Logger):
         super().__init__(data_config=data_config, gpt_client=gpt_client, logger=logger)
         self.gpt_client: Gpt4LangClient = gpt_client

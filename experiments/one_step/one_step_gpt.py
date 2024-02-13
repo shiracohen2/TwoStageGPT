@@ -9,13 +9,17 @@ from tqdm import tqdm
 from data_enums.clevr_math_labels_enum import ClevrMathLabelsEnum
 from conf.gpt_4_vision_config import Gpt4VisionConfig
 from conf.data_config import DataConfig
-from base_gpt_clevr_solver import BaseGptClevrSolver
 from data_enums.image_data_enum import ImageDataEnum
+from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
 from gpt_clients.gpt4_vision_client import Gpt4VisionClient
 from utils.logger import init_logger
 
 
 class OneStepGPT(BaseGptClevrSolver):
+    """
+    This class is used to solve the questions from CLEVR-math in a one-step approach:
+    the model receives an image and a question and should provide the answer.
+    """
     def __init__(self, data_config: DataConfig, gpt_client: Gpt4VisionClient, logger: Logger):
         super().__init__(data_config=data_config, gpt_client=gpt_client, logger=logger)
         self.gpt_client: Gpt4VisionClient = gpt_client
@@ -26,6 +30,9 @@ class OneStepGPT(BaseGptClevrSolver):
 
     @property
     def prompt(self) -> str:
+        """
+        The prompt used to get the model response.
+        """
         prompt = ("Answer the following <question>, based on the given image.\n"
                   "Your response should include not only the numerical answer but also a brief explanation of how "
                   "you arrived at that conclusion.\n"
@@ -67,6 +74,9 @@ class OneStepGPT(BaseGptClevrSolver):
             return results
 
     def get_question_result(self, question_data: dict[str, Any]) -> dict[str, str]:
+        """
+        Call the GPT model to solve the question and return the result.
+        """
         # prepare the data for the gpt model and get the response
         image_path = question_data[ClevrMathLabelsEnum.IMAGE].filename
         question = question_data[ClevrMathLabelsEnum.QUESTION]

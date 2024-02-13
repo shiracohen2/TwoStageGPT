@@ -13,6 +13,9 @@ from gpt_clients.base_client import BaseClient
 
 
 class BaseGptClevrSolver(ABC):
+    """
+    Base class for GPT solvers for CLEVR dataset.
+    """
 
     def __init__(self, data_config: DataConfig, gpt_client: BaseClient, logger: Logger):
         self.logger = logger
@@ -23,10 +26,16 @@ class BaseGptClevrSolver(ABC):
     @property
     @abstractmethod
     def prompt(self) -> str:
+        """
+        The prompt to use for the instructions for the GPT model.
+        """
         raise NotImplementedError
 
     @staticmethod
     def download_dataset(dataset_name: str):
+        """
+        Download the dataset from the Hugging Face hub.
+        """
         dl_config = DownloadConfig(resume_download=True,
                                    num_proc=8,
                                    force_download=True)

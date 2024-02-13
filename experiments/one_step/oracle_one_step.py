@@ -14,6 +14,12 @@ from one_step_gpt import OneStepGPT
 
 
 class OracleOneStep(OneStepGPT):
+    """
+    This class is used to solve the questions from CLEVR-math in a one-step approach.
+    However, in this case, in addition to the image and the question, the model also receives a full
+    description of all the objects in the image (taken from CLEVR dataset annotations).
+
+    """
     def __init__(self, data_config: DataConfig, gpt_client: Gpt4VisionClient, logger: Logger):
         super().__init__(data_config=data_config, gpt_client=gpt_client, logger=logger)
         self.oracle_one_step_results_file: Path = data_config.oracle_one_step_results_file

@@ -9,6 +9,9 @@ from conf.base_gpt_config import BaseGptConfig
 
 
 class BaseClient(ABC):
+    """
+    Base class for GPT clients.
+    """
     def __init__(self, config: BaseGptConfig, logger: logging.Logger):
         self.deployment_name = config.vision_model_deployment_name
         self.max_rate_limit_retries = config.max_rate_limit_retries
