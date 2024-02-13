@@ -1,0 +1,79 @@
+from logging import Logger
+from pathlib import Path
+from typing import Any
+
+from conf.gpt_4_vision_config import Gpt4VisionConfig
+from conf.data_config import DataConfig
+from data_enums.image_data_enum import ImageDataEnum
+from gpt_clients.gpt4_vision_client import Gpt4VisionClient
+from logger import init_logger
+from two_step_gpt import TwoStepGpt
+
+
+class TwoStepGptVision(TwoStepGpt):
+    def __init__(self, data_config: DataConfig, gpt_client: Gpt4VisionClient, logger: Logger):
+        super().__init__(data_config=data_config, gpt_client=gpt_client, logger=logger)
+        self.gpt_client: Gpt4VisionClient = gpt_client
+        self.two_step_gpt_vision_results_file: Path = data_config.two_step_gpt_vision_results_file
+        self.object_counting_results_file: Path = data_config.object_counting_results_file
+
+    @property
+    def prompt(self) -> str:
+
+        prompt = ("You are given a question about an image.\n"
+                  "You are also given a <description> of the image.\n"
+                  "Answer the <question>.\n"
+                  "Your response should include not only the numerical answer but also a brief explanation of how "
+                  "you arrived at that conclusion.\n"
+                  "Pay attention: make sure to conclude your answer with the following format: \n"
+                  "'My answer is: <numeric answer>'\n"
+                  "For e.g.: 'My answer is: 64'\n\n"
+                  "<question>: {question}\n"
+                  "<description>:\n{description}")
+        return prompt
+
+    def get_question_result(
+            self,
+            question_data: dict[str, Any],
+            parsing_result: str,
+            counting_result: str
+    ) -> dict[str, str]:
+        # prepare the data for the gpt model and get the response
+        image_path = question_data[ImageDataEnum.IMAGE_PATH]
+        question = question_data[ImageDataEnum.QUESTION]
+        prompt = self.prompt.format(question=question, description=counting_result)
+        gpt_response = self.gpt_client.get_vision_model_response(prompt=prompt, image_path=image_path)
+
+        template = question_data[ImageDataEnum.TEMPLATE]
+        image_id = question_data[ImageDataEnum.IMAGE_ID]
+        label = question_data[ImageDataEnum.LABEL]
+        numerical_result = self.extract_numeric_answer(text=gpt_response)
+        is_correct = label == numerical_result
+
+        result = {
+            ImageDataEnum.IMAGE_PATH: image_path,
+            ImageDataEnum.IMAGE_ID: image_id,
+            ImageDataEnum.QUESTION: question,
+            ImageDataEnum.TEMPLATE: template,
+            ImageDataEnum.LABEL: label,
+            ImageDataEnum.PARSING_RESULT: parsing_result,
+            ImageDataEnum.COUNTING_RESULT: counting_result,
+            ImageDataEnum.GPT_RESPONSE: gpt_response,
+            ImageDataEnum.NUMERICAL_RESULT: numerical_result,
+            ImageDataEnum.IS_CORRECT: is_correct,
+        }
+        return result
+
+
+if __name__ == "__main__":
+    logger = init_logger(file_name="two_step_gpt.log")
+
+    gpt_config = Gpt4VisionConfig()
+    gpt_client = Gpt4VisionClient(config=gpt_config, logger=logger)
+
+    config = DataConfig()
+    two_step_gpt = TwoStepGptVision(data_config=config, gpt_client=gpt_client, logger=logger)
+
+    answers = two_step_gpt.solve_questions()
+    logger.info(f"Finished solving questions.")
+    two_step_gpt.save_json_file(file_path=two_step_gpt.two_step_gpt_vision_results_file, data=answers)
