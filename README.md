@@ -1,7 +1,7 @@
 # TwoStageGPT
 
 This is the code used for the paper "Decomposed Prompting for Vision and Language Arithmetic Reasoning".
-This code is using CLEVR Math dataset to test GPT-4 model with vision capabilities in solving vision and
+This code is using [CLEVR Math](https://arxiv.org/pdf/2208.05358.pdf) dataset to test GPT-4 model with vision capabilities in solving vision and
 language word math problems.
 
 **To run the code:**
