@@ -1,0 +1,618 @@
+{
+  "5214": {
+    "detection_result": "There are 2 large matte cylinders (yellow and teal), 1 small matte cylinder (purple), 1 large shiny sphere (red), 1 small shiny cube (gold), and 1 small matte cube (teal). There are 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000635.png",
+    "image_id": "CLEVR_test_000635.png",
+    "question": "Subtract all gray cylinders. Subtract all purple balls. How many cylinders are left?",
+    "valid": false
+  },
+  "3616": {
+    "detection_result": "There is 1 large matte cube, 1 large matte cylinder, and 1 small shiny cube. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000446.png",
+    "image_id": "CLEVR_test_000446.png",
+    "question": "Subtract all blocks. How many objects are left?"
+  },
+  "4776": {
+    "detection_result": "There are 1 large shiny red sphere, 1 small shiny yellow cube, 1 large matte blue cylinder, 1 large matte blue sphere, 1 small shiny blue sphere, and 1 small matte blue cube. There are 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000581.png",
+    "image_id": "CLEVR_test_000581.png",
+    "question": "Subtract all big objects. Subtract all small blue things. How many objects are left?",
+    "valid": false
+  },
+  "1418": {
+    "detection_result": "There are 2 large shiny spheres (1 gold and 1 yellow), 1 small shiny sphere (gold), 1 small shiny cube (purple), 1 large shiny cylinder (red), and 1 large matte cylinder (brown). There are 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000163.png",
+    "image_id": "CLEVR_test_000163.png",
+    "question": "Subtract 1 yellow spheres. How many objects are left?",
+    "valid": false
+  },
+  "1703": {
+    "detection_result": "There are 1 small shiny purple sphere, 1 small matte blue cylinder, 1 large shiny grey cylinder, 1 small shiny teal sphere, and 4 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000208.png",
+    "image_id": "CLEVR_test_000208.png",
+    "question": "Add 3 tiny gray cylinders. How many objects exist?",
+    "valid": false
+  },
+  "2014": {
+    "detection_result": "There is 1 large matte cylinder, 1 small matte cube, and 1 small matte cylinder. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000254.png",
+    "image_id": "CLEVR_test_000254.png",
+    "question": "Add 3 tiny metal things. How many tiny metal things exist?"
+  },
+  "6699": {
+    "detection_result": "There is 1 large shiny cylinder, 1 small shiny sphere, and 1 small shiny cylinder. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000823.png",
+    "image_id": "CLEVR_test_000823.png",
+    "question": "Add 3 purple cubes. How many purple cubes exist?"
+  },
+  "5065": {
+    "detection_result": "There are 2 large shiny cylinders, 1 small shiny cube, 1 large shiny cube, 1 small matte cylinder, and 1 large matte cylinder. There are 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000615.png",
+    "image_id": "CLEVR_test_000615.png",
+    "question": "Subtract all cyan cylinders. How many cylinders are left?",
+    "valid": false
+  },
+  "3287": {
+    "detection_result": "There are 2 large shiny spheres (1 purple, 1 silver), 2 small shiny cubes (both green), 1 small matte sphere (purple), 2 large matte cylinders (1 purple, 1 green), and 1 small shiny cylinder (red). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000400.png",
+    "image_id": "CLEVR_test_000400.png",
+    "question": "Subtract all cylinders. How many objects are left?",
+    "valid": false
+  },
+  "6724": {
+    "detection_result": "There are 1 small matte sphere, 1 small shiny sphere, 1 large matte cylinder, and 1 small matte cube. There are 4 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000826.png",
+    "image_id": "CLEVR_test_000826.png",
+    "question": "Add 2 small yellow matte things. How many small yellow matte things exist?"
+  },
+  "7300": {
+    "detection_result": "There are 2 small matte cubes, 1 large shiny sphere, 1 small shiny cylinder, and 4 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000899.png",
+    "image_id": "CLEVR_test_000899.png",
+    "question": "Subtract 0 blue cylinders. How many objects are left?",
+    "valid": false
+  },
+  "7856": {
+    "detection_result": "There is 1 large shiny sphere, 1 small shiny cube, and 1 small matte cube. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000984.png",
+    "image_id": "CLEVR_test_000984.png",
+    "question": "Subtract all blocks. How many objects are left?"
+  },
+  "368": {
+    "detection_result": "There is 1 small matte yellow sphere, 1 large shiny blue sphere, and 1 small shiny teal cube. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000038.png",
+    "image_id": "CLEVR_test_000038.png",
+    "question": "Subtract all yellow spheres. How many spheres are left?"
+  },
+  "359": {
+    "detection_result": "There are 2 small shiny spheres (1 gold and 1 silver), 1 small shiny sphere (green), 3 small matte cubes (1 red, 1 purple, 1 blue), 1 small matte cylinder (brown), and 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000037.png",
+    "image_id": "CLEVR_test_000037.png",
+    "question": "Subtract all spheres. How many objects are left?",
+    "valid": false
+  },
+  "5627": {
+    "detection_result": "There is 1 large shiny sphere, 1 small shiny sphere, 1 large shiny cylinder, and 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000698.png",
+    "image_id": "CLEVR_test_000698.png",
+    "question": "Subtract 0 red cubes. How many objects are left?"
+  },
+  "5164": {
+    "detection_result": "There are 1 large matte sphere, 1 small matte sphere, 1 small matte cube, 1 large matte cube, 1 small shiny sphere, and 1 small matte cylinder. There are 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000628.png",
+    "image_id": "CLEVR_test_000628.png",
+    "question": "Subtract 1 cubes. How many cubes are left?",
+    "valid": false
+  },
+  "1096": {
+    "detection_result": "There are 1 small matte cube, 1 small matte cylinder, 1 large shiny sphere, and 1 large shiny cube. There are 4 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000118.png",
+    "image_id": "CLEVR_test_000118.png",
+    "question": "Add 6 small purple things. How many small purple things exist?",
+    "valid": false
+  },
+  "902": {
+    "detection_result": "There are 2 large shiny spheres (1 black, 1 blue), 1 small shiny sphere (purple), 1 large matte cylinder (red), 1 small matte cylinder (grey), 1 small shiny cube (yellow), and 2 small matte cubes (1 red, 1 brown). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000096.png",
+    "image_id": "CLEVR_test_000096.png",
+    "question": "Subtract all brown rubber cylinders. How many cylinders are left?",
+    "valid": false
+  },
+  "7009": {
+    "detection_result": "There are 2 large shiny cubes (1 red, 1 green), 1 large shiny sphere (red), 1 small shiny cube (blue), and 1 small shiny cylinder (green). There are 5 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000859.png",
+    "image_id": "CLEVR_test_000859.png",
+    "question": "Add 3 purple rubber cubes. How many purple rubber cubes exist?"
+  },
+  "2902": {
+    "detection_result": "There are 2 small matte cubes (1 red, 1 blue), 1 large shiny cylinder (purple), 1 small matte cylinder (purple), 1 large shiny sphere (silver), 1 small matte sphere (purple), 1 small matte sphere (brown), and 1 small matte sphere (blue). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000347.png",
+    "image_id": "CLEVR_test_000347.png",
+    "question": "How many purple cylinders must be subtracted to get 1 purple cylinders?",
+    "valid": false
+  },
+  "2832": {
+    "detection_result": "There are 2 large shiny cylinders (green and red), 1 small shiny cylinder (green), 1 large shiny cube (blue), 1 small shiny sphere (yellow), and 1 small shiny sphere (gold). There are 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000338.png",
+    "image_id": "CLEVR_test_000338.png",
+    "question": "Add 7 tiny shiny spheres. How many tiny shiny spheres are left?",
+    "valid": false
+  },
+  "1354": {
+    "detection_result": "There is 1 small matte red cylinder, 1 small matte yellow cylinder, 1 large matte grey sphere, and 1 large shiny green cube. There are 4 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000155.png",
+    "image_id": "CLEVR_test_000155.png",
+    "question": "Subtract all tiny shiny things. Subtract all big blocks. How many objects are left?"
+  },
+  "2890": {
+    "detection_result": "There are 2 small shiny cubes (1 gold, 1 yellow), 1 large matte cylinder (brown), 1 large shiny cylinder (purple), 1 small shiny sphere (yellow), 1 small matte sphere (blue), and 1 small shiny sphere (purple). There are 7 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000345.png",
+    "image_id": "CLEVR_test_000345.png",
+    "question": "Add 5 yellow rubber cubes. How many yellow rubber cubes exist?"
+  },
+  "3263": {
+    "detection_result": "There is 1 small matte cube, 1 small shiny sphere, and 1 small matte cylinder. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000397.png",
+    "image_id": "CLEVR_test_000397.png",
+    "question": "Add 3 gray metallic blocks. How many objects exist?"
+  },
+  "7349": {
+    "detection_result": "There are 1 small shiny cube, 1 small matte cube, 1 large shiny cylinder, 1 large matte cylinder, 1 large shiny sphere, and 5 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000906.png",
+    "image_id": "CLEVR_test_000906.png",
+    "question": "Add 3 big green shiny spheres. How many objects exist?",
+    "valid": false
+  },
+  "2736": {
+    "detection_result": "There is 1 large shiny sphere, 1 small matte cylinder, and 1 small shiny cube. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000328.png",
+    "image_id": "CLEVR_test_000328.png",
+    "question": "Add 2 cyan balls. How many cyan balls exist?"
+  },
+  "5721": {
+    "detection_result": "There are 2 large shiny cylinders (1 yellow, 1 green), 1 small shiny cylinder (yellow), 1 large matte sphere (purple), 1 large shiny sphere (blue), 1 small shiny cube (blue), 1 small shiny sphere (green), and 1 small shiny sphere (red). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000712.png",
+    "image_id": "CLEVR_test_000712.png",
+    "question": "Subtract 3 balls. How many balls are left?",
+    "valid": false
+  },
+  "3037": {
+    "detection_result": "There are 3 large shiny spheres, 1 small shiny cube, 1 large matte cylinder, 1 small matte cylinder, and 1 small matte sphere. There are 7 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000364.png",
+    "image_id": "CLEVR_test_000364.png",
+    "question": "Subtract all blocks. How many objects are left?",
+    "valid": false
+  },
+  "7919": {
+    "detection_result": "There are 2 large matte cubes, 1 small shiny cylinder, 1 small shiny cube, 1 small matte sphere, and 1 small shiny sphere. There are 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000993.png",
+    "image_id": "CLEVR_test_000993.png",
+    "question": "Subtract all matte spheres. Subtract all tiny cylinders. How many objects are left?",
+    "valid": false
+  },
+  "4922": {
+    "detection_result": "There are 2 large shiny cubes (purple and blue), 1 small shiny cube (green), 1 large shiny sphere (purple), 1 small shiny sphere (purple), 1 large matte cylinder (gold), 1 small matte cylinder (green), and 1 small shiny cube (red). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000598.png",
+    "image_id": "CLEVR_test_000598.png",
+    "question": "Add 8 big purple cylinders. How many big purple cylinders exist?",
+    "valid": false
+  },
+  "2360": {
+    "detection_result": "There is 1 small shiny blue sphere, 1 small matte red cylinder, 1 small matte blue cylinder, and 1 small matte orange cube. There are 4 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000290.png",
+    "image_id": "CLEVR_test_000290.png",
+    "question": "Add 3 red rubber cylinders. How many objects exist?"
+  },
+  "5519": {
+    "detection_result": "There are 2 large shiny spheres (1 black, 1 purple), 1 small shiny sphere (black), 1 large matte sphere (green), 1 small matte sphere (red), 1 large matte cylinder (orange), and 1 small matte cylinder (yellow). There are 7 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000681.png",
+    "image_id": "CLEVR_test_000681.png",
+    "question": "Subtract all blue spheres. Subtract all purple blocks. How many spheres are left?",
+    "valid": false
+  },
+  "5285": {
+    "detection_result": "There are 2 large matte cylinders (1 gray, 1 brown), 1 small shiny sphere (gold), 1 small matte cube (green), 2 large matte cubes (1 gray, 1 red), 1 large matte sphere (brown), and 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000645.png",
+    "image_id": "CLEVR_test_000645.png",
+    "question": "Subtract all purple blocks. Subtract all purple balls. How many blocks are left?",
+    "valid": false
+  },
+  "7340": {
+    "detection_result": "There are 2 small matte cubes (1 blue, 1 grey), 1 small shiny cube (gold), 1 large shiny sphere (silver), 1 small shiny sphere (green), and 1 small matte sphere (red). There are 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000905.png",
+    "image_id": "CLEVR_test_000905.png",
+    "question": "Subtract all big brown metallic blocks. How many blocks are left?",
+    "valid": false
+  },
+  "947": {
+    "detection_result": "There are 2 large shiny spheres (1 blue, 1 red), 1 small shiny sphere (brown), 2 large shiny cubes (1 purple, 1 pink), 1 small shiny cube (gold), and 6 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000100.png",
+    "image_id": "CLEVR_test_000100.png",
+    "question": "Subtract all tiny matte cylinders. Subtract all red metallic objects. How many objects are left?",
+    "valid": false
+  },
+  "6780": {
+    "detection_result": "There are 2 large shiny spheres (1 blue, 1 grey), 1 small shiny cube (1 purple), 1 large matte cube (1 green), 1 small matte cube (1 red), 1 small shiny cylinder (1 brown), 1 small matte cylinder (1 tan), and 1 small shiny cube (1 teal). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000833.png",
+    "image_id": "CLEVR_test_000833.png",
+    "question": "Subtract all red matte blocks. How many blocks are left?",
+    "valid": false
+  },
+  "2609": {
+    "detection_result": "There are 1 large matte purple cube, 1 small matte yellow cube, and 1 small shiny blue cube. There are 3 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000315.png",
+    "image_id": "CLEVR_test_000315.png",
+    "question": "Subtract all gray blocks. Subtract all purple cylinders. How many blocks are left?",
+    "valid": false
+  },
+  "2228": {
+    "detection_result": "There are 2 large shiny spheres (1 red, 1 purple), 1 small shiny sphere (red), 1 large shiny cube (green), 1 small matte cylinder (blue), and 1 large matte cylinder (gray). There are 6 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000276.png",
+    "image_id": "CLEVR_test_000276.png",
+    "question": "Subtract 0 red blocks. How many objects are left?",
+    "valid": false
+  },
+  "6347": {
+    "detection_result": "There are 2 small matte cubes (1 blue, 1 teal), 1 small shiny cylinder (gold), 1 large matte cylinder (yellow), 1 large matte cylinder (purple), 1 large matte cylinder (blue), 1 large matte cube (gray), and 1 small shiny cube (orange). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000786.png",
+    "image_id": "CLEVR_test_000786.png",
+    "question": "Subtract all yellow metallic cubes. Subtract all small brown metallic cylinders. How many objects are left?",
+    "valid": false
+  },
+  "2413": {
+    "detection_result": "There are 2 small matte spheres (blue), 1 small matte cylinder (grey), 1 large shiny cylinder (blue), 1 small shiny cube (red), 1 small shiny sphere (green), 1 small shiny cylinder (purple), and 1 small shiny cylinder (yellow). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000295.png",
+    "image_id": "CLEVR_test_000295.png",
+    "question": "Subtract all blue cylinders. How many blue blocks are left?",
+    "valid": false
+  },
+  "41": {
+    "detection_result": "There are 2 large shiny spheres (green and grey), 1 small shiny sphere (yellow), 1 large shiny cube (blue), 1 small shiny cube (red), 1 large matte cylinder (grey), 1 small matte cylinder (green), and 1 small shiny cylinder (purple). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000004.png",
+    "image_id": "CLEVR_test_000004.png",
+    "question": "Subtract 1 blue cubes. How many objects are left?",
+    "valid": false
+  },
+  "3439": {
+    "detection_result": "There are 2 small shiny cubes (1 red, 1 purple), 1 large matte cube (grey), 3 small shiny cylinders (1 blue, 1 teal, 1 yellow), 1 large matte cylinder (red), and 1 small matte sphere (yellow). There are 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000422.png",
+    "image_id": "CLEVR_test_000422.png",
+    "question": "Subtract all blue metal cylinders. How many cylinders are left?",
+    "valid": false
+  },
+  "1426": {
+    "detection_result": "There are 2 small matte cylinders (1 green, 1 purple), 1 small matte cube (blue), 1 small shiny sphere (green), 1 small matte sphere (orange), 1 large matte sphere (purple), 1 large shiny sphere (teal), and 1 large shiny cube (gold). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000164.png",
+    "image_id": "CLEVR_test_000164.png",
+    "question": "Subtract all balls. How many objects are left?",
+    "valid": false
+  },
+  "7654": {
+    "detection_result": "There are 1 large shiny sphere, 1 small shiny sphere, 1 large shiny cylinder, 1 small matte cylinder, 1 small matte cube, and 5 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000952.png",
+    "image_id": "CLEVR_test_000952.png",
+    "question": "Subtract all matte spheres. Subtract all small matte things. How many objects are left?"
+  },
+  "7483": {
+    "detection_result": "There are 2 large matte spheres (1 blue, 1 green), 1 small shiny sphere (gold), 1 large matte cube (grey), 1 small matte cube (purple), 2 large matte cylinders (1 purple, 1 blue), and 1 small matte cylinder (green). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000926.png",
+    "image_id": "CLEVR_test_000926.png",
+    "question": "Subtract all gray cylinders. Subtract all gray spheres. How many cylinders are left?",
+    "valid": false
+  },
+  "2572": {
+    "detection_result": "There are 2 large shiny spheres (1 silver, 1 gold), 1 small shiny sphere (green), 1 large shiny cube (gold), 2 small matte cubes (1 red, 1 green), 1 small shiny cylinder (red), and 1 small matte cylinder (blue). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000311.png",
+    "image_id": "CLEVR_test_000311.png",
+    "question": "Subtract all purple balls. Subtract all red cylinders. How many balls are left?",
+    "valid": false
+  },
+  "7666": {
+    "detection_result": "There are 2 small shiny spheres (1 blue, 1 gold), 1 large shiny sphere (red), 1 small shiny cube (purple), 1 large shiny cylinder (green), and 1 large matte cylinder (red). There are 6 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000954.png",
+    "image_id": "CLEVR_test_000954.png",
+    "question": "Add 6 purple shiny things. How many purple shiny things exist?"
+  },
+  "3553": {
+    "detection_result": "There are 2 large shiny cylinders, 1 small shiny sphere, 1 small shiny cube, 1 large shiny cube, 1 small matte cube, 1 small shiny cylinder, and 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000437.png",
+    "image_id": "CLEVR_test_000437.png",
+    "question": "Add 6 rubber cylinders. How many rubber cylinders exist?",
+    "valid": false
+  },
+  "1419": {
+    "detection_result": "There are 2 large shiny spheres, 1 small shiny sphere, 1 small shiny cube, 1 large shiny cylinder, and 5 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000163.png",
+    "image_id": "CLEVR_test_000163.png",
+    "question": "Subtract all small metallic objects. Subtract all shiny cubes. How many objects are left?",
+    "valid": false
+  },
+  "1546": {
+    "detection_result": "There are 1 large shiny cube, 1 small matte cube, 1 large matte cylinder, 1 small shiny cylinder, 1 small shiny sphere, and 5 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000182.png",
+    "image_id": "CLEVR_test_000182.png",
+    "question": "Subtract all big yellow metallic cylinders. Subtract all tiny cyan cubes. How many objects are left?"
+  },
+  "820": {
+    "detection_result": "There are 1 small matte cube, 1 large shiny cylinder, 1 small shiny cylinder, 1 small matte sphere, and 1 large matte cube. There are 5 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000086.png",
+    "image_id": "CLEVR_test_000086.png",
+    "question": "Subtract all tiny brown matte objects. Subtract all tiny yellow shiny balls. How many objects are left?"
+  },
+  "4423": {
+    "detection_result": "There are 2 large matte cubes (1 gray, 1 red with a gold handle), 1 large matte cylinder (green), 1 small shiny cylinder (silver), 1 small matte cube (blue), and 2 small shiny cubes (1 red, 1 maroon). There are 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000545.png",
+    "image_id": "CLEVR_test_000545.png",
+    "question": "Subtract all blue metal blocks. Subtract all small blue blocks. How many objects are left?",
+    "valid": false
+  },
+  "1514": {
+    "detection_result": "There are 2 large shiny spheres (1 red, 1 blue), 1 small shiny sphere (green), 1 large matte cylinder (yellow), 1 small matte cylinder (red), 1 small shiny cube (brown), and 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000178.png",
+    "image_id": "CLEVR_test_000178.png",
+    "question": "Add 1 small spheres. How many objects exist?",
+    "valid": false
+  },
+  "3895": {
+    "detection_result": "There are 2 large shiny red spheres, 1 small shiny silver sphere, 1 small shiny gold sphere, 1 small shiny gold cylinder, 1 small matte grey cylinder, 1 small shiny blue cube, and 1 large matte green cube. There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000486.png",
+    "image_id": "CLEVR_test_000486.png",
+    "question": "Add 1 gray metallic cylinders. How many objects exist?",
+    "valid": false
+  },
+  "7577": {
+    "detection_result": "There are 2 small shiny spheres (1 blue, 1 teal), 1 large shiny sphere (blue), 1 small shiny cube (gray), 1 large shiny cube (brown), 1 small matte cylinder (teal), and 1 large matte cylinder (green). There are 7 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000939.png",
+    "image_id": "CLEVR_test_000939.png",
+    "question": "Add 7 big brown things. How many big brown things are left?",
+    "valid": false
+  },
+  "206": {
+    "detection_result": "There are 1 small matte cube, 1 large shiny sphere, and 1 small matte cylinder. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000021.png",
+    "image_id": "CLEVR_test_000021.png",
+    "question": "Add 2 purple metallic blocks. How many objects exist?"
+  },
+  "1856": {
+    "detection_result": "There are 1 small shiny cube, 1 small shiny sphere, 1 small matte sphere, and 3 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000233.png",
+    "image_id": "CLEVR_test_000233.png",
+    "question": "Add 2 large metallic blocks. How many objects exist?",
+    "valid": false
+  },
+  "5539": {
+    "detection_result": "There are 2 large shiny cylinders, 1 small shiny cube, 1 small shiny sphere, 1 large shiny sphere, 1 small matte sphere, 1 small matte cube, and 7 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000683.png",
+    "image_id": "CLEVR_test_000683.png",
+    "question": "Subtract all yellow rubber things. Subtract all tiny metallic cubes. How many objects are left?",
+    "valid": false
+  },
+  "214": {
+    "detection_result": "There are 2 large shiny cubes, 1 large shiny sphere, 1 large shiny cylinder, 1 small matte cylinder, and 1 small matte cube. There are 6 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000022.png",
+    "image_id": "CLEVR_test_000022.png",
+    "question": "Subtract all green cylinders. Subtract all gray spheres. How many cylinders are left?"
+  },
+  "2347": {
+    "detection_result": "There are 2 large shiny spheres (1 blue and 1 red), 1 small shiny sphere (yellow), 2 large shiny cubes (1 green and 1 yellow), 1 small matte cube (red), and 1 small shiny cylinder (blue). There are 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000288.png",
+    "image_id": "CLEVR_test_000288.png",
+    "question": "Subtract all blue cylinders. Subtract all brown blocks. How many cylinders are left?",
+    "valid": false
+  },
+  "2150": {
+    "detection_result": "There are 2 large shiny cylinders (1 purple, 1 blue), 1 small shiny cylinder (green), 1 large shiny sphere (blue), and 1 small shiny sphere (blue). There are 5 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000268.png",
+    "image_id": "CLEVR_test_000268.png",
+    "question": "Subtract all purple cubes. How many yellow cylinders are left?",
+    "valid": false
+  },
+  "2336": {
+    "detection_result": "There are 2 large shiny cubes (1 gold, 1 blue), 1 small shiny cube (green), 1 large shiny sphere (gold), 1 small shiny sphere (red), 1 small matte sphere (yellow), and 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000287.png",
+    "image_id": "CLEVR_test_000287.png",
+    "question": "Subtract all green balls. Subtract all brown cylinders. How many balls are left?",
+    "valid": false
+  },
+  "3886": {
+    "detection_result": "There are 2 large shiny cubes (1 green, 1 gold), 1 small shiny cube (red), 1 large shiny cylinder (blue), 1 large shiny sphere (purple), and 1 small shiny sphere (teal). There are 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000484.png",
+    "image_id": "CLEVR_test_000484.png",
+    "question": "Subtract all large gray shiny cylinders. Subtract all green metallic cubes. How many objects are left?",
+    "valid": false
+  },
+  "2726": {
+    "detection_result": "There are 1 large shiny cube, 1 small shiny cube, 1 small shiny sphere, 1 large matte cylinder, and 4 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000327.png",
+    "image_id": "CLEVR_test_000327.png",
+    "question": "Subtract all small balls. Subtract all brown metallic cylinders. How many objects are left?",
+    "valid": false
+  },
+  "7451": {
+    "detection_result": "There is 1 large matte cylinder, 1 large shiny sphere, and 1 small shiny cube. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000921.png",
+    "image_id": "CLEVR_test_000921.png",
+    "question": "Subtract all small gray blocks. Subtract all blue objects. How many objects are left?"
+  },
+  "4687": {
+    "detection_result": "There are 2 small shiny spheres (1 silver, 1 gold), 1 large shiny cube (gold), 1 small shiny cube (gold), 1 large matte cube (grey), 1 small matte cylinder (purple), and 1 small shiny cylinder (green). There are 7 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000572.png",
+    "image_id": "CLEVR_test_000572.png",
+    "question": "Subtract all yellow spheres. Subtract all cyan blocks. How many spheres are left?",
+    "valid": false
+  },
+  "6587": {
+    "detection_result": "There are 2 large shiny cylinders (1 green and 1 purple), 1 small matte cube (yellow), 1 large shiny sphere (purple), and 1 large shiny cube (blue). There are 5 objects in total.",
+    "number_of_objects": 6,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000811.png",
+    "image_id": "CLEVR_test_000811.png",
+    "question": "Subtract all green cylinders. Subtract all blue spheres. How many cylinders are left?",
+    "valid": false
+  },
+  "7262": {
+    "detection_result": "There are 2 large shiny spheres (1 blue, 1 teal), 1 small shiny sphere (black), 1 small matte sphere (purple), 2 large matte cylinders (1 teal, 1 purple), and 1 small shiny cylinder (brown). There are 7 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000894.png",
+    "image_id": "CLEVR_test_000894.png",
+    "question": "Subtract all blue metal spheres. Subtract all small cyan rubber objects. How many objects are left?",
+    "valid": false
+  },
+  "1360": {
+    "detection_result": "There is 1 large shiny purple cube, 1 small shiny green cube, and 1 small shiny teal cylinder. There are 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000156.png",
+    "image_id": "CLEVR_test_000156.png",
+    "question": "Subtract all small cyan matte cylinders. Subtract all cyan cylinders. How many objects are left?"
+  },
+  "172": {
+    "detection_result": "There are 2 large shiny spheres (1 green, 1 gold), 1 small shiny cube (red), 1 large matte cylinder (blue), 1 small matte cylinder (purple), 3 small matte cubes (1 yellow, 1 green, 1 brown), and 8 objects in total.",
+    "number_of_objects": 10,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000017.png",
+    "image_id": "CLEVR_test_000017.png",
+    "question": "Subtract all cyan spheres. How many purple cubes are left?",
+    "valid": false
+  },
+  "5368": {
+    "detection_result": "There are 1 small shiny red sphere, 1 small shiny red cube, and 1 small shiny purple cube, and 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000658.png",
+    "image_id": "CLEVR_test_000658.png",
+    "question": "Subtract all purple matte cylinders. Subtract all small red metallic cubes. How many objects are left?"
+  },
+  "2275": {
+    "detection_result": "There are 1 small matte cube, 1 small shiny cube, 1 large shiny cube, and 3 objects in total.",
+    "number_of_objects": 4,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000281.png",
+    "image_id": "CLEVR_test_000281.png",
+    "question": "Subtract all cyan cylinders. How many blue cubes are left?",
+    "valid": false
+  },
+  "4338": {
+    "detection_result": "There are 2 large matte cylinders (1 black, 1 yellow), 1 small matte cylinder (yellow), 1 small shiny sphere (gold), 1 small matte sphere (red), 1 small matte cube (purple), and 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000536.png",
+    "image_id": "CLEVR_test_000536.png",
+    "question": "Subtract all red balls. Subtract all purple cylinders. How many balls are left?",
+    "valid": false
+  },
+  "2949": {
+    "detection_result": "There are 2 large shiny cubes (1 red, 1 green), 1 small shiny cube (blue), 1 large shiny cylinder (teal), 1 small shiny cylinder (yellow), 1 small shiny sphere (red), and 6 objects in total.",
+    "number_of_objects": 8,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000352.png",
+    "image_id": "CLEVR_test_000352.png",
+    "question": "Subtract all small gray spheres. Subtract all cyan metal things. How many objects are left?",
+    "valid": false
+  },
+  "4065": {
+    "detection_result": "There are 2 large matte cubes (1 blue, 1 yellow), 1 large shiny sphere (gold), 1 large matte cylinder (gray), 1 small shiny cylinder (red), 1 small matte cube (gray), 1 small shiny sphere (teal), and 1 small matte sphere (yellow). There are 8 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000508.png",
+    "image_id": "CLEVR_test_000508.png",
+    "question": "Subtract all blue cubes. Subtract all yellow cylinders. How many cubes are left?",
+    "valid": false
+  },
+  "2487": {
+    "detection_result": "There are 2 large matte cylinders (1 yellow, 1 red), 1 small shiny sphere (gold), 1 large shiny sphere (red), 1 small matte cube (purple), 1 large shiny cube (purple), and 1 small matte cylinder (teal). There are 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000302.png",
+    "image_id": "CLEVR_test_000302.png",
+    "question": "Subtract all blue cubes. Subtract all gray balls. How many cubes are left?",
+    "valid": false
+  },
+  "6244": {
+    "detection_result": "There are 1 small shiny cube, 1 small matte cube, and 1 small shiny cube, and 3 objects in total.",
+    "number_of_objects": 3,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000776.png",
+    "image_id": "CLEVR_test_000776.png",
+    "question": "Subtract all yellow cubes. Subtract all yellow balls. How many cubes are left?"
+  },
+  "1275": {
+    "detection_result": "There is 1 large shiny blue sphere, 1 large shiny gold cube, 1 small shiny teal sphere, 1 small shiny teal cube, and 1 small matte red cylinder. There are 5 objects in total.",
+    "number_of_objects": 5,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000144.png",
+    "image_id": "CLEVR_test_000144.png",
+    "question": "Subtract all cyan matte objects. Subtract all small red objects. How many objects are left?"
+  },
+  "6884": {
+    "detection_result": "There are 2 small shiny cubes, 1 large matte cube, 1 small shiny sphere, 1 large matte sphere, 1 large matte cylinder, and 6 objects in total.",
+    "number_of_objects": 7,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000845.png",
+    "image_id": "CLEVR_test_000845.png",
+    "question": "Subtract all purple cylinders. How many blue balls are left?",
+    "valid": false
+  },
+  "787": {
+    "detection_result": "There are 2 large shiny cubes (1 green, 1 brown), 1 small shiny cube (blue), 2 large shiny cylinders (1 blue, 1 teal), 1 small shiny cylinder (brown), 1 small matte sphere (brown), and 7 objects in total.",
+    "number_of_objects": 9,
+    "image_path": "/home/nlp/sidoncs/.cache/huggingface/datasets/downloads/extracted/292f9bb845fe8badcd15ceb539f9bd5fb7d1fc45dfb8359f958a3855d07364cf/CLEVR_v1.0/images/test/CLEVR_test_000082.png",
+    "image_id": "CLEVR_test_000082.png",
+    "question": "Subtract all blue rubber cylinders. Subtract all brown rubber blocks. How many objects are left?",
+    "valid": false
+  }
+}
