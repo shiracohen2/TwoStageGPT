@@ -12,8 +12,12 @@ class DataConfig:
         metadata={"help": "The name of the CLEVR validation scenes file."},
     )
     one_step_gpt_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "one_step_gpt_results.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "one_step_gpt_results.json"),
         metadata={"help": "The name of the file where all the one step gpt results are saved."},
+    )
+    sampled_keys_for_validation: Path = field(
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "sampled_keys_for_validation.txt"),
+        metadata={"help": "The name of the file where all the sampled keys for validation are saved."},
     )
     one_step_gpt_cot_results_file: Path = field(
         default=Path(__file__).parent.parent.joinpath("data", "one_step_gpt_cot_results.json"),
@@ -56,6 +60,10 @@ class DataConfig:
             "data", "validation_set_results", "oracle_two_step_results.json"
         ),
         metadata={"help": "The name of the file where all the oracle two step results are saved."},
+    )
+    simple_object_detection_results_file: Path = field(
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "simple_object_detection_results.json"),
+        metadata={"help": "The name of the file where all the simple object detection results are saved."},
     )
     number_of_questions_to_solve: int = field(default=400)
     clevr_math_dataset_name: str = field(default="dali-does/clevr-math")
