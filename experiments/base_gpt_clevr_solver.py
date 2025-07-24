@@ -73,7 +73,10 @@ class BaseGptClevrSolver(ABC):
         int or None: The extracted numeric answer, or None if not found.
         """
         match = re.search(r"My answer is: (\d+)", text)
-        return int(match.group(1)) if match else None
+        if match:
+            return int(match.group(1))
+        else:
+            raise ValueError("Answer not found in the text.")
 
     @staticmethod
     def get_number_of_correct_answers(results: dict[int, dict]) -> int:

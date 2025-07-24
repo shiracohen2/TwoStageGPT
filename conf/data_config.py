@@ -12,7 +12,7 @@ class DataConfig:
         metadata={"help": "The name of the CLEVR validation scenes file."},
     )
     one_step_gpt_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "one_step_gpt_results.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "4O_one_step_gpt_results.json"),
         metadata={"help": "The name of the file where all the one step gpt results are saved."},
     )
     sampled_keys_for_validation: Path = field(
@@ -20,15 +20,15 @@ class DataConfig:
         metadata={"help": "The name of the file where all the sampled keys for validation are saved."},
     )
     one_step_gpt_cot_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "one_step_gpt_cot_results.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "4O_one_step_gpt_cot_results.json"),
         metadata={"help": "The name of the file where all the one step gpt cot results are saved."},
     )
     objects_parsing_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "objects_parsing_results.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "4O_objects_parsing_results.json"),
         metadata={"help": "The name of the file where all the objects parsing results are saved."},
     )
     object_counting_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "object_counting_results.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "4O_object_counting_results.json"),
         metadata={"help": "The name of the file where all the object counting results are saved."},
     )
     object_counting_validation_file: Path = field(
@@ -40,7 +40,7 @@ class DataConfig:
         metadata={"help": "The name of the file where all the two step gpt results are saved."},
     )
     two_step_gpt_vision_results_file: Path = field(
-        default=Path(__file__).parent.parent.joinpath("data", "two_step_gpt_results_vision.json"),
+        default=Path(__file__).parent.parent.joinpath("data", "test_set_results", "4O_two_step_gpt_results_vision.json"),
         metadata={"help": "The name of the file where all the two step gpt results are saved."},
     )
     oracle_one_step_results_file: Path = field(

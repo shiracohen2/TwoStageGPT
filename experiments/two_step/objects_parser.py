@@ -3,7 +3,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from conf.gpt4_lang_config import GPT4LangConfig
+from conf.gpt40_config import GPT4OConfig
 from conf.data_config import DataConfig
 from data_enums.image_data_enum import ImageDataEnum
 from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
@@ -28,7 +28,7 @@ class ObjectsParser(BaseGptClevrSolver):
                   "Your response should consist solely of this list, with each object clearly enumerated. "
                   "Do not enumerate objects with their counts, only their descriptions. \n"
                   "For example, if the <question> is: 'Add 5 blue balls. Add 2 balls. How many objects exist?',"
-                  "your response should be: 'blue balls, balls'.\n"
+                  "your response should be: 'blue balls, balls, objects'.\n"
                   "Another example: if the <question> is: 'Add 5 small objects. Add 2 metal objects. "
                   "How many balls are there?',"
                   "your response should be: 'small objects, metal objects, balls'.\n\n"
@@ -81,7 +81,7 @@ class ObjectsParser(BaseGptClevrSolver):
 
 if __name__ == "__main__":
     logger = init_logger(file_name="objects_parser.log")
-    gpt_client = Gpt4LangClient(config=GPT4LangConfig(), logger=logger)
+    gpt_client = Gpt4LangClient(config=GPT4OConfig(), logger=logger)
 
     config = DataConfig()
     objects_parser = ObjectsParser(data_config=config, gpt_client=gpt_client, logger=logger)

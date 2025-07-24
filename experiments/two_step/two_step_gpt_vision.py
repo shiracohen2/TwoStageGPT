@@ -4,7 +4,7 @@ from typing import Any
 
 from tqdm import tqdm
 
-from conf.gpt_4_vision_config import Gpt4VisionConfig
+from conf.gpt40_config import GPT4OConfig
 from conf.data_config import DataConfig
 from data_enums.image_data_enum import ImageDataEnum
 from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
@@ -94,7 +94,7 @@ class TwoStepGptVision(BaseGptClevrSolver):
 if __name__ == "__main__":
     logger = init_logger(file_name="two_step_gpt.log")
 
-    gpt_config = Gpt4VisionConfig()
+    gpt_config = GPT4OConfig()
     gpt_client = Gpt4VisionClient(config=gpt_config, logger=logger)
 
     config = DataConfig()

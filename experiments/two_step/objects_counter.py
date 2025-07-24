@@ -3,7 +3,7 @@ from pathlib import Path
 
 from tqdm import tqdm
 
-from conf.gpt_4_vision_config import Gpt4VisionConfig
+from conf.gpt40_config import GPT4OConfig
 from conf.data_config import DataConfig
 from data_enums.image_data_enum import ImageDataEnum
 from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
@@ -39,7 +39,7 @@ class ObjectsCounter(BaseGptClevrSolver):
             "from the <objects list>, followed by a short description of its appearances in the image, "
             "referring their color, size(small or large), shape(cube, ball, cylinder, etc.), "
             "material(matte/rubber or metal/shiny), and finally their total count.\n"
-            "Only when you are required to count all the objects in the image, simply provide the total "
+            "In case you are required to count all the objects in the image, simply provide the total "
             "count - without the descriptions. You should always add this count to the end of your response.\n"
             "For example, if the <objects list> is: 'red balls, balls, small objects, cylinders', "
             "your response should look like:\n"
@@ -108,7 +108,7 @@ class ObjectsCounter(BaseGptClevrSolver):
 if __name__ == "__main__":
     logger = init_logger(file_name="objects_counter.log")
 
-    gpt_config = Gpt4VisionConfig()
+    gpt_config = GPT4OConfig()
     gpt_vision_client = Gpt4VisionClient(config=gpt_config, logger=logger)
 
     config = DataConfig()

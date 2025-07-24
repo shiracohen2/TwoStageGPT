@@ -7,7 +7,7 @@ from typing import Any
 from tqdm import tqdm
 
 from data_enums.clevr_math_labels_enum import ClevrMathLabelsEnum
-from conf.gpt_4_vision_config import Gpt4VisionConfig
+from conf.gpt40_config import GPT4OConfig
 from conf.data_config import DataConfig
 from data_enums.image_data_enum import ImageDataEnum
 from experiments.base_gpt_clevr_solver import BaseGptClevrSolver
@@ -69,7 +69,9 @@ class OneStepGPT(BaseGptClevrSolver):
                 self.questions_counter[template] += 1
                 questions_solved += 1
                 progress_bar.update(1)
-
+        except Exception as e:
+            self.logger.error(f"An error occurred: {e}")
+            raise e
         finally:
             return results
 
@@ -118,7 +120,7 @@ class OneStepGPT(BaseGptClevrSolver):
 if __name__ == "__main__":
     logger = init_logger(file_name="one_step_gpt.log")
 
-    gpt_config = Gpt4VisionConfig()
+    gpt_config = GPT4OConfig()
     gpt_vision_client = Gpt4VisionClient(config=gpt_config, logger=logger)
 
     config = DataConfig()
